@@ -1,4 +1,4 @@
-10000shared.com
+- 10000shared.com
 - 10shared.com
 - 1fichier.com
 - 1uplds.us
@@ -37,6 +37,7 @@
 - bigfilebox.com
 - bin.ge
 - bitster.cz
+- borncash.org (Russian)
 - box.com
 - brfiles.com (Brazilian)
 - brupload.net (Brazilian)
@@ -57,7 +58,6 @@
 - cloudmyfile.com
 - cloudyfiles.co
 - coolbytez.com
-- copiapop.com
 - copy.com
 - cornfile.com
 - cosmobox.org
@@ -82,6 +82,7 @@
 - depositfiles.com
 - d-h.st
 - dinoshare.cz
+- dir50.com
 - directupload.net (German)
 - disk.karelia.pro (Russian)
 - disk.yandex.com
@@ -123,6 +124,7 @@
 - fenixfile.com
 - fenixshare.com
 - file-share.top (Czech)
+- file-space.org (Russian)
 - file-upload.com
 - file.al
 - file.town
@@ -196,6 +198,7 @@
 - freedisc.pl (Polish)
 - freefile.me
 - freshfile.pl (Polish)
+- fromsmash.com
 - fshare.in
 - fshare.vn (Vietnamese)
 - ftopia.com
@@ -285,6 +288,7 @@
 - midiashared.com (Portoguese)
 - minhateca.com.br
 - miupload.com
+- monkifiles.com
 - mp4upload.com
 - mrkzgulf.com (Arabian)
 - myfiles.onl
@@ -308,6 +312,7 @@
 - one2up.com (Thai)
 - onecloud.media
 - onedrive.live.com
+- onionfiles.com
 - opendrive.com
 - openload.co
 - orangefiles.me
@@ -325,6 +330,7 @@
 - prefiles.net
 - putcker.com
 - putdocs.com
+- putfiles.in
 - qtyfiles.com
 - rapidfileshare.net
 - rapidgator.net
