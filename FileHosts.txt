@@ -32,6 +32,7 @@
 - backin.net
 - bajoo.fr (French)
 - bankupload.com
+- basicupload.com
 - bdupload.info
 - bigfile.to
 - bigfilebox.com
@@ -181,6 +182,7 @@
 - filesuploading.com (Arabian)
 - filetrip.net
 - filetut.com
+- fileud.com
 - fileupload.link
 - fileupload.pw
 - fileupup.com
@@ -382,6 +384,7 @@
 - speedvid.net
 - spicyfile.com
 - spikyup.com
+- startfiles.org
 - storagely.com
 - storefileway.com
 - streamfile.com
