@@ -79,10 +79,10 @@
 - dbr.ee
 - debfile.com
 - delafil.se (Swedish)
-- depfile.com
 - depositfiles.com
 - d-h.st
 - dinoshare.cz
+- dipfile.com
 - dir50.com
 - directupload.net (German)
 - disk.karelia.pro (Russian)
