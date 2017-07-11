@@ -121,6 +121,7 @@
 - fastshare.org (German)
 - faststore.org
 - fastupload.ro (Romanian)
+- fayloobmennik.cloud (Russian)
 - fboom.me
 - fenixfile.com
 - fenixshare.com
@@ -414,6 +415,7 @@
 - turbofiles.net
 - turbovideos.net
 - tusfiles.net
+- uafile.com(Russian)
 - uberupload.net
 - uguu.se
 - uloz.to (Czech)
@@ -423,7 +425,6 @@
 - ulozto.sk (Slovenian)
 - ultimatedown.com
 - unibytes.com
-- unlimitzone.com
 - up-4ever.com
 - up.top4top.net (Arabian)
 - up07.me
