@@ -361,6 +361,7 @@
 - sendeyo.com/en/
 - sendfile.su (Russian)
 - sendit.cloud
+- sendit.gl
 - sendit24.com
 - sendmyway.com
 - sendspace.com
