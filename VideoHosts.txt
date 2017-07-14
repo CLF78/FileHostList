@@ -82,6 +82,7 @@
 - vidzi.tv
 - vimeo.com
 - vimple.ru
+- vivo.sx
 - vk.com (Russian)
 - vshare.eu
 - watchers.to
