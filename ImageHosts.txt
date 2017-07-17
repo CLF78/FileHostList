@@ -46,6 +46,7 @@
 - imgs.to
 - imgserve.net
 - imgspice.com
+- imgsrc.ru (Russian)
 - imgstudio.org
 - imgtaxi.com
 - imgtiger.com
