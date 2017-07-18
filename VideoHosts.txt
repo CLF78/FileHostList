@@ -3,6 +3,7 @@
 - abysstream.com
 - akstream.video
 - ani-stream.com
+- anyfiles.pl (Polish)
 - auroravid.to
 - bestream.tv
 - bitvid.sx
