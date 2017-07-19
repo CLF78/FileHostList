@@ -13,6 +13,7 @@
 - 4upld.com
 - 5azn.net
 - 700files.com
+- 76fengyun.com (Chinese)
 - 9xupload.me
 - abmatrix.com
 - acefile.co
@@ -284,6 +285,7 @@
 - mega.co.nz
 - megacache.net
 - megadrive.tv
+- megafiles.us
 - megafileupload.com
 - megafirez.com
 - megasync.net
@@ -392,7 +394,6 @@
 - spicyfile.com
 - spikyup.com
 - startfiles.org
-- storagely.com
 - storefileway.com
 - streamfile.com
 - subyshare.com
