@@ -150,6 +150,7 @@
 - filefactory.com
 - filefenix.com
 - fileflyer.com
+- filefox.cc
 - filefreak.com
 - filehd.host
 - filehorst.de (German)
@@ -209,6 +210,7 @@
 - fshare.vn (Vietnamese)
 - ftopia.com
 - furk.net
+- fxpan.com (Chinese)
 - gamefront.online
 - ge.tt
 - gettyfile.ru (Russian)
@@ -503,6 +505,7 @@
 - wikiupload.com
 - wipfiles.net
 - wizupload.com
+- workupload.com
 - worldbytez.com
 - wushare.com
 - wyslijto.pl (Polish)
