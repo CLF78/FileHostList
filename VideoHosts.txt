@@ -2,6 +2,7 @@
 - 7nowvideo.com
 - abysstream.com
 - akstream.video
+- akvideo.stream
 - ani-stream.com
 - anyfiles.pl (Polish)
 - auroravid.to
@@ -21,7 +22,7 @@
 - easyvid.org
 - estream.to
 - fastplay.to
-- faststream.in
+- faststream.ws
 - fastvideo.me
 - flashx.tv
 - gamovideo.com
