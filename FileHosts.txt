@@ -15,6 +15,7 @@
 - 700files.com
 - 76fengyun.com (Chinese)
 - 9xupload.me
+- abload.de (German)
 - abmatrix.com
 - acefile.co
 - adrive.com
@@ -58,7 +59,9 @@
 - cloudifer.net
 - cloudlocker.biz
 - cloudmyfile.com
+- cloudupload.co
 - cloudyfiles.co
+- cloudyfiles.org
 - coolbytez.com
 - copy.com
 - cornfile.com
@@ -93,6 +96,7 @@
 - dopefile.pk
 - doraupload.com (Japanese)
 - dosya.tc (Turkish)
+- douploads.com
 - downace.com
 - downflow.net
 - downloadani.me
@@ -286,6 +290,7 @@
 - mediafire.com
 - mega.co.nz
 - megacache.net
+- megadrive.co
 - megadrive.tv
 - megafiles.us
 - megafileupload.com
@@ -403,7 +408,7 @@
 - sunexenus.com
 - superbshare.com (Czech)
 - supershare.pl (Polish)
-- suprafiles.co
+- suprafiles.org
 - svfile.com
 - swoopshare.com
 - takefile.link
@@ -449,6 +454,7 @@
 - upload.zone
 - uploadas.com
 - uploadbank.com
+- uploadbaz.net
 - uploadbits.net
 - uploadboy.com
 - uploaded.net
@@ -513,6 +519,7 @@
 - xeupload.com
 - xfilesharing.us
 - xn--gebzbbce.co.il (Hebrew)
+- xshare.eu (Polish)
 - xubster.com
 - xuploads.com
 - xvidstage.com (German)
