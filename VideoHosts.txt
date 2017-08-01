@@ -37,6 +37,7 @@
 - mystream.la
 - myvi.ru (Russian)
 - netu.tv
+- nicovideo.jp (Japanese)
 - nowvideo.ag
 - nowvideo.li
 - nowvideo.to
