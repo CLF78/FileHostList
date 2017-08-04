@@ -224,6 +224,7 @@
 - girlshare.ro
 - gmx.com/tools/file-storage/
 - grabitshare.com
+- gufiles.com
 - gzfile.com
 - harefile.com
 - hellshare.com
@@ -257,6 +258,7 @@
 - jandown.com
 - japdgfile.com
 - jeodrive.com
+- jianguoyun.com (Chinese)
 - jolinfile.com
 - jumbload.com
 - jumbofilebox.com
