@@ -27,6 +27,7 @@
 - androidfilehost.com
 - androidhost.org
 - anonfile.com
+- apkfiles.store
 - arab.sh (Arabian)
 - arabloads.net
 - ausfile.com
@@ -254,6 +255,7 @@
 - invitationfile.com
 - iranupload.com (Arabian)
 - ironfiles.net
+- ishare.iask.sina.com.cn (Chinese) (Documents Only)
 - ishareupload.com
 - jandown.com
 - japdgfile.com
@@ -288,7 +290,6 @@
 - mailbigfile.com
 - manyuploading.com
 - media1fire.com (Arabian)
-- media4up.com
 - mediafile.co
 - mediafire.com
 - mega.co.nz
