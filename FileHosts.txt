@@ -355,6 +355,7 @@
 - qtyfiles.com
 - rapidfileshare.net
 - rapidgator.net
+- rapidrar.com
 - rapidstone.com
 - rapidu.net
 - rarefile.net (currently only premium users can upload)
