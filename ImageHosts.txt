@@ -38,7 +38,6 @@
 - imgclick.net
 - imgdew.com
 - imgdino.com
-- imgdragon.com
 - imgdrive.net
 - imgflare.com
 - imgmaid.net
@@ -86,6 +85,4 @@
 - turboimagehost.com
 - ultraimg.com
 - uploadhouse.com
-- uploadyourimages.org
 - wi.to
-- zupimages.org
