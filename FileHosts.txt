@@ -112,6 +112,7 @@
 - droplr.com
 - droppy.cz
 - dropsend.com
+- dumpplace.com (Not sure about this one)
 - easybytez.com
 - easypaste.org (Czech)
 - easysend.to
@@ -150,6 +151,7 @@
 - fileconvoy.com
 - filecyber.com
 - filedais.com
+- fileden.com
 - filedot.xyz
 - filedropper.com
 - filedwon.info
@@ -160,6 +162,7 @@
 - filefreak.com
 - filehd.host
 - filehorst.de (German)
+- filehost.ro (Romanian)
 - filehosting.org
 - filejoker.net
 - filekeen.com
@@ -234,6 +237,7 @@
 - hightail.com
 - hitfile.net
 - host.hackerbox.org
+- host-a.net
 - hostingrill.co
 - hostr.co
 - hostuje.net (Polish)
@@ -374,6 +378,7 @@
 - savefile.co
 - scribd.com
 - sdilej.cz (Czech)
+- send-file.com
 - sendeyo.com/en/
 - sendfile.su (Russian)
 - sendit.cloud
@@ -493,6 +498,7 @@
 - uptodo.net
 - urupload.com
 - usaupload.net
+- usbupload.com
 - uschovna.cz (Czech)
 - userscdn.com
 - userscloud.com
