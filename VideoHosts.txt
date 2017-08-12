@@ -1,5 +1,6 @@
 - 1tube.to
 - 7nowvideo.com
+- 9xplay.net
 - abysstream.com
 - akstream.video
 - akvideo.stream
@@ -42,9 +43,9 @@
 - nowvideo.li
 - nowvideo.to
 - ok.ru (Russian)
-- picstream.tv
 - powvideo.net
 - prehrajto.cz (Czech)
+- putload.tv
 - rapidvideo.com
 - rapidvideo.cool
 - rapidvideo.org
