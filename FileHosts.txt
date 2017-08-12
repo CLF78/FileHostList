@@ -13,6 +13,7 @@
 - 4sync.com
 - 4upld.com
 - 5azn.net
+- 666kb.com (German)
 - 700files.com
 - 76fengyun.com (Chinese)
 - 9xupload.me
@@ -96,15 +97,18 @@
 - disk.yandex.com
 - diskokosmiko.mx (Spanish)
 - dl.free.fr (French)
+- dlfiles.online
 - dopefile.pk
 - doraupload.com (Japanese)
 - dosya.tc (Turkish)
 - douploads.com
 - downace.com
 - downflow.net
+- downkloud.com
 - downloadani.me
 - drfile.net
 - drive.google.com
+- drop.me
 - dropapk.com
 - dropbox.com
 - dropcanvas.com
@@ -350,12 +354,15 @@
 - pan.baidu.com (Chinese)
 - panmind.com
 - pcloud.com
+- picstream.tv
 - pixeldra.in
 - plunder.com
+- pobierz.to (Polish)
 - pogoplug.com
 - portflares.com
 - poslisoubor.cz (Czech)
 - prefiles.net
+- publish2.me
 - putcker.com
 - putdocs.com
 - putfiles.in
@@ -475,6 +482,7 @@
 - uploadfile.pl
 - uploadfiles.eu
 - uploadfiles.io
+- uploadfiles.pw
 - uploadgig.com
 - uploadify.net
 - uploadion.com
