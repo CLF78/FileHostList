@@ -410,6 +410,7 @@
 - sharehost.eu (Polish)
 - sharemods.com
 - shareplace.com
+- sharing.wtf
 - sharingmaster.com
 - sibit.net (Russian)
 - sizedrive.com (Spanish)
@@ -422,6 +423,7 @@
 - speedvid.net
 - spicyfile.com
 - spikyup.com
+- stackstorage.com (Dutch)
 - startfiles.org
 - storefileway.com
 - streamfile.com
