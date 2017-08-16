@@ -28,6 +28,7 @@
 - anafile.com
 - androidfilehost.com
 - androidhost.org
+- aniteca.zlx.com.br (Brazilian)
 - anonfile.com
 - apkfiles.store
 - arab.sh (Arabian)
