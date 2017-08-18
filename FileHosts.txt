@@ -76,7 +76,7 @@
 - crazyshare.cc
 - crockdown.com
 - crocko.com
-- ctfile.com (Chinese)(400 GB for free !)
+- ctfile.com (Chinese)
 - dailyfiles.net (Polish)
 - dailyuploads.net
 - daofile.com
@@ -96,6 +96,7 @@
 - dipfile.com
 - dir50.com
 - directupload.net (German)
+- dirrtyshar.es
 - disk.karelia.pro (Russian)
 - disk.yandex.com
 - diskokosmiko.mx (Spanish)
