@@ -122,6 +122,7 @@
 - droppy.cz
 - dropsend.com
 - dumpplace.com (Not sure about this one)
+- dysk.onet.pl (Polish)
 - easybytez.com
 - easypaste.org (Czech)
 - easysend.to
