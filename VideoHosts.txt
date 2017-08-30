@@ -33,6 +33,7 @@
 - idowatch.net
 - kingvid.tv
 - megahd.tv
+- mixloads.com
 - moevideo.club (Russian)
 - moshahda.net (Arabian)
 - mystream.la
@@ -75,6 +76,7 @@
 - vidfile.net
 - vidgg.to
 - vidlox.tv
+- vidmoly.me
 - vidoza.net
 - vidto.me
 - vidtodo.com
@@ -94,3 +96,4 @@
 - wstream.video
 - youtube.com
 - youwatch.org
+- zeddo.net
