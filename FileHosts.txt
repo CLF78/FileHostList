@@ -41,9 +41,11 @@
 - bankupload.com
 - basicupload.com
 - bdupload.info
+- bduploadmor.com
 - bigfile.to
 - bigfilebox.com
 - bin.ge
+- bitload.to
 - bitster.cz
 - borncash.org (Russian)
 - box.com
@@ -244,6 +246,7 @@
 - gufiles.com
 - gzfile.com
 - harefile.com
+- hdupload.net
 - hellshare.com
 - hellupload.com
 - herosh.com
@@ -511,6 +514,7 @@
 - uploadx.link
 - uploadx.org
 - uploadz.org
+- uplod.co
 - uplod.ir (Arabian)
 - uplod.ws
 - uplooder.net (Arabian)
