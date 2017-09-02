@@ -163,6 +163,7 @@
 - filecad.com
 - filecargo.com
 - fileconvoy.com
+- filecorn.com
 - filecyber.com
 - filedais.com
 - fileden.com
@@ -286,6 +287,7 @@
 - jumbload.com
 - jumbofilebox.com
 - jumbofiles.org
+- jumpshare.com
 - justbeamit.com
 - k2s.cc
 - katfile.com
