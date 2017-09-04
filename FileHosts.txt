@@ -47,6 +47,7 @@
 - bin.ge
 - bitload.to
 - bitster.cz
+- boltfile.com
 - borncash.org (Russian)
 - box.com
 - brfiles.com (Brazilian)
@@ -91,11 +92,11 @@
 - datoid.cz (Czech)
 - dbr.ee
 - debfile.com
+- depfile.com (mirrors : depfile.us, dipfile.com)
 - delafil.se (Swedish)
 - depositfiles.com
 - d-h.st
 - dinoshare.cz
-- dipfile.com
 - dir50.com
 - directupload.net (German)
 - dirrtyshar.es
@@ -532,6 +533,7 @@
 - userscdn.com
 - userscloud.com
 - usersfiles.com
+- veeosync.com
 - vodlock.co
 - volafile.org
 - vshare.io
@@ -550,6 +552,7 @@
 - wikisend.com
 - wikiupload.com
 - wipfiles.net
+- withfiles.com
 - wizupload.com
 - workupload.com
 - worldbytez.com
