@@ -225,6 +225,7 @@
 - florenfile.com
 - flyfiles.net
 - foxstore.org
+- foxyimg.link
 - free-uploading.com
 - freedisc.pl (Polish)
 - freefile.me (German)
