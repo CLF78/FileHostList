@@ -30,6 +30,7 @@
 - arab.sh (Arabian)
 - arabloads.net
 - ausfile.com
+- avatarshare.com
 - axfiles.net
 - backin.net
 - bajoo.fr (French)
@@ -144,6 +145,7 @@
 - fboom.me
 - fenixfile.com
 - fenixshare.com
+- file-share.top (Czech)
 - file-space.org (Russian)
 - file-upload.com
 - file.al
