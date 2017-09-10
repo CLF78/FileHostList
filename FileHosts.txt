@@ -1,18 +1,14 @@
 - 10000shared.com
-- 10shared.com
 - 1fichier.com
-- 1uplds.us
 - 2big2send.com
 - 2giga.link
 - 2shared.com
 - 3adisk.com (Chinese)
-- 3rbup.com (Arabian)
 - 4bigbox.com
 - 4downfiles.org
 - 4share.vn (Vietnamese)
 - 4shared.com
 - 4sync.com
-- 4upld.com
 - 5azn.net
 - 666kb.com (German)
 - 700files.com
@@ -34,12 +30,10 @@
 - arab.sh (Arabian)
 - arabloads.net
 - ausfile.com
-- avatarshare.com
 - axfiles.net
 - backin.net
 - bajoo.fr (French)
 - bankupload.com
-- basicupload.com
 - bdupload.info
 - bduploadmor.com
 - bigfile.to
@@ -53,7 +47,6 @@
 - brfiles.com (Brazilian)
 - brupload.net (Brazilian)
 - btafile.com
-- bytewhale.com
 - catshare.net (Polish)
 - catshare.org (Japanese)
 - chayfile.com
@@ -62,20 +55,17 @@
 - clicknupload.org
 - cloud.directupload.net (German)
 - cloud.mail.ru (Russian)
-- cloud-share.in
 - cloudfile.hosting
 - cloudifer.net
 - cloudlocker.biz
 - cloudmyfile.com
 - cloudupload.co
-- cloudyfiles.co
 - cloudyfiles.org
 - come2store.com
 - coolbytez.com
 - copy.com
 - cornfile.com
 - cosmobox.org
-- cosyupload.com
 - crazyshare.cc
 - crockdown.com
 - crocko.com
@@ -111,9 +101,7 @@
 - douploads.com
 - downace.com
 - downflow.net
-- downkloud.com
 - downloadani.me
-- drfile.net
 - drive.google.com
 - drop.me
 - dropapk.com
@@ -130,7 +118,7 @@
 - easypaste.org (Czech)
 - easysend.to
 - edisk.cz (Czech)
-- elsfile.com
+- elsfile.org
 - europeup.com
 - euroshare.eu
 - ex-load.com
@@ -149,7 +137,6 @@
 - fboom.me
 - fenixfile.com
 - fenixshare.com
-- file-share.top (Czech)
 - file-space.org (Russian)
 - file-upload.com
 - file.al
@@ -196,7 +183,6 @@
 - filesbomb.in
 - filescdn.com
 - filescloud.co
-- filesend.net
 - filesflash.net
 - filesgator.com
 - fileshare.ro (Romanian)
@@ -236,10 +222,8 @@
 - fshare.vn (Vietnamese)
 - ftopia.com
 - furk.net
-- fxpan.com (Chinese)
 - gamefront.online
 - ge.tt
-- gettyfile.ru (Russian)
 - gigapeta.com
 - gigasize.com
 - gimehost.com
@@ -250,9 +234,7 @@
 - gzfile.com
 - harefile.com
 - hdupload.net
-- hellshare.com
 - hellupload.com
-- herosh.com
 - hightail.com
 - hitfile.net
 - host.hackerbox.org
@@ -263,10 +245,9 @@
 - hotbytez.com
 - hotlink.cc
 - howfile.com
-- htshof.online
 - hubfiles.pw
 - hubic.com
-- hugefiles.net
+- hugefiles.cc
 - hugesharing.net
 - hulkload.com
 - hyperfileshare.com
@@ -298,12 +279,10 @@
 - keeload.com
 - keep2s.cc
 - keep2share.cc
-- keepfile.org
 - keepresource.com (Chinese)
 - keepshare.net
 - kingfile.pl (Polish)
 - kiwi6.com
-- koofile.com
 - lambodata.com
 - leteckaposta.cz (Czech)
 - linkz.ge
@@ -321,12 +300,10 @@
 - mega.co.nz
 - megacache.net
 - megadrive.co
-- megadrive.tv
 - megafiles.us
-- megafileupload.com
 - megafirez.com
 - megasync.net
-- megaupload.cz (Czech)
+- megaupload.vsevjednom.cz (Czech)
 - mechoshare.com
 - meocloud.pt (Portoguese)
 - mexashare.com
@@ -358,7 +335,6 @@
 - oboom.com
 - ofile.com
 - one2up.com (Thai)
-- onecloud.media
 - onedrive.live.com
 - onionfiles.com
 - opendrive.com
@@ -401,7 +377,6 @@
 - sakurafile.com
 - salefiles.com
 - samaup.com
-- savefile.co
 - scribd.com
 - sdilej.cz (Czech)
 - send-file.com
@@ -425,7 +400,6 @@
 - sharemods.com
 - shareplace.com
 - sharing.wtf
-- sharingmaster.com
 - sibit.net (Russian)
 - sizedrive.com (Spanish)
 - solidfiles.com
@@ -442,7 +416,6 @@
 - storefileway.com
 - streamfile.com
 - subyshare.com
-- suload.com
 - sunexenus.com
 - superbshare.com (Czech)
 - supershare.pl (Polish)
@@ -458,7 +431,6 @@
 - tikfile.com
 - tinyupload.com
 - toofile.com
-- toplexil.com
 - trainbit.com
 - transferbigfiles.com
 - tunescoop.com
@@ -484,6 +456,7 @@
 - upera.co
 - upf.co.il (Hebrew)
 - upfile.mobi
+- uplds.us
 - upload.cd
 - upload.com.ua (Russian)
 - upload.ee
@@ -503,7 +476,6 @@
 - uploadfiles.pw
 - uploadgig.com
 - uploadify.net
-- uploadion.com
 - uploadkadeh.com
 - uploadman.com
 - uploadmb.com
@@ -531,8 +503,8 @@
 - usbupload.com
 - uschovna.cz (Czech)
 - userscdn.com
-- userscloud.com
 - usersfiles.com
+- vds-host.com.ua (Russian)
 - veeosync.com
 - vodlock.co
 - volafile.org
@@ -543,11 +515,9 @@
 - we4load.com
 - webfilehost.com
 - webshare.cz (Czech)
-- wefong.cc
 - weshare.me
 - wetransfer.com
 - weup.co.il (Hebrew)
-- wickedupload.com
 - wikifortio.com
 - wikisend.com
 - wikiupload.com
