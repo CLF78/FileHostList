@@ -36,9 +36,11 @@
 - bankupload.com
 - bdupload.info
 - bduploadmor.com
+- big4shared.com
 - bigfile.to
 - bigfilebox.com
 - bin.ge
+- birdload.com
 - bitload.to
 - bitster.cz
 - boltfile.com
@@ -47,6 +49,7 @@
 - brfiles.com (Brazilian)
 - brupload.net (Brazilian)
 - btafile.com
+- bytebx.com
 - catshare.net (Polish)
 - catshare.org (Japanese)
 - chayfile.com
@@ -61,6 +64,7 @@
 - cloudmyfile.com
 - cloudupload.co
 - cloudyfiles.org
+- cnubis.com (Spanish)
 - come2store.com
 - coolbytez.com
 - copy.com
@@ -82,8 +86,9 @@
 - datoid.cz (Czech)
 - dbr.ee
 - debfile.com
-- depfile.com (mirrors : depfile.us, dipfile.com)
 - delafil.se (Swedish)
+- depfile.com (mirrors : depfile.us, dipfile.com)
+- depofile.info
 - depositfiles.com
 - d-h.st
 - dinoshare.cz
@@ -92,15 +97,17 @@
 - dirrtyshar.es
 - disk.karelia.pro (Russian)
 - disk.yandex.com
-- diskokosmiko.mx (Spanish)
+- diskokosmiko.mx (Mexican)
 - dl.free.fr (French)
 - dlfiles.online
 - dopefile.pk
 - doraupload.com (Japanese)
 - dosya.tc (Turkish)
+- dosya.tv (Turkish)
 - douploads.com
 - downace.com
 - downflow.net
+- downgb.com
 - downloadani.me
 - drive.google.com
 - drop.me
@@ -142,7 +149,7 @@
 - file.al
 - file.town
 - file.up09.com
-- file4go.net (Spanish)
+- file4go.net (Spanish, mirror file4go.com)
 - file4safe.com
 - fileai.com
 - fileav.com
@@ -150,6 +157,7 @@
 - filebox.com
 - filecad.com
 - filecargo.com
+- filecloud.io
 - fileconvoy.com
 - filecorn.com
 - filecyber.com
@@ -160,11 +168,13 @@
 - filedwon.info
 - filefactory.com
 - filefenix.com
+- fileflares.com
 - fileflyer.com
 - filefox.cc
 - filefreak.com
 - filehd.host
 - filehorst.de (German)
+- filehost.net
 - filehost.ro (Romanian)
 - filehosting.org
 - filejoker.net
@@ -203,6 +213,7 @@
 - fileupload.pw
 - fileupup.com
 - fileze.net
+- filezog.com
 - firedrop.com
 - fireget.com
 - fireswap.org
@@ -213,6 +224,7 @@
 - flyfiles.net
 - foxstore.org
 - foxyimg.link
+- freakshare.com
 - free-uploading.com
 - freedisc.pl (Polish)
 - freefile.me (German)
@@ -281,6 +293,7 @@
 - keep2share.cc
 - keepresource.com (Chinese)
 - keepshare.net
+- kenfiles.com
 - kingfile.pl (Polish)
 - kiwi6.com
 - lambodata.com
@@ -289,6 +302,7 @@
 - linkzhost.com
 - littlebyte.net
 - load.to
+- longfiles.com
 - lunaticfiles.com (Polish)
 - m5zn.com (Arabian)
 - mailbigfile.com
@@ -300,6 +314,7 @@
 - mega.co.nz
 - megacache.net
 - megadrive.co
+- megafile.pl (Polish)
 - megafiles.us
 - megafirez.com
 - megasync.net
@@ -313,6 +328,7 @@
 - miupload.com
 - mixstep.co
 - monkifiles.com
+- mountfile.net
 - mp4upload.com
 - mrkzgulf.com (Arabian)
 - multcloud.com
@@ -327,6 +343,7 @@
 - nfomation.net
 - nitrobit.net (Hebrew)
 - nitroflare.com
+- nodefiles.com
 - nomofile.com
 - novafile.com
 - nowdownload.ch
@@ -334,6 +351,7 @@
 - nowdownload.to
 - oboom.com
 - ofile.com
+- omerta.is
 - one2up.com (Thai)
 - onedrive.live.com
 - onionfiles.com
@@ -355,12 +373,15 @@
 - poslisoubor.cz (Czech)
 - prefiles.net
 - publish2.me
+- put.io
 - putcker.com
 - putdocs.com
 - putfiles.in
 - qtyfiles.com
+- rabidfiles.com
 - rapidfileshare.net
 - rapidgator.net
+- rapidpaid.com
 - rapidrar.com
 - rapidstone.com
 - rapidu.net
@@ -374,6 +395,7 @@
 - rockfile.eu
 - rusfolder.com (Russian)
 - sabercathost.com
+- saikocloud.ml
 - sakurafile.com
 - salefiles.com
 - samaup.com
@@ -417,9 +439,11 @@
 - storefileway.com
 - streamfile.com
 - subyshare.com
+- sufile.com (Chinese)
 - sunexenus.com
 - superbshare.com (Czech)
 - supershare.pl (Polish)
+- superupload.com
 - suprafiles.org
 - svfile.com
 - swoopshare.com
@@ -429,11 +453,13 @@
 - terafilez.com
 - tezfiles.com
 - thaicyberupload.com
+- the7sky.info
 - tikfile.com
 - tinyupload.com
 - toofile.com
 - trainbit.com
 - transferbigfiles.com
+- tropicshare.com
 - tunescoop.com
 - turbobit.net
 - turbofiles.net
@@ -443,13 +469,14 @@
 - uberupload.net
 - uguu.se
 - uloz.to (Czech)
-- ulozisko.sk (Slovenian)
+- ulozisko.sk (Slovak)
 - ulozto.cz (Czech)
 - ulozto.net
-- ulozto.sk (Slovenian)
+- ulozto.sk (Slovak)
 - ultimatedown.com
 - unibytes.com
 - up-4ever.com
+- up.4share.vn (Vietnamese)
 - up.top4top.net (Arabian)
 - up07.me
 - up77.com (Arabian)
@@ -469,6 +496,7 @@
 - uploadbaz.net
 - uploadbits.net
 - uploadboy.com
+- uploadcloud.pro
 - uploaded.net
 - uploadex.com
 - uploadfile.pl
@@ -495,6 +523,7 @@
 - uplod.ir (Arabian)
 - uplod.ws
 - uplooder.net (Arabian)
+- upnito.sk (Slovak)
 - uppit.com
 - upstore.net
 - uptobox.com
@@ -504,6 +533,7 @@
 - usbupload.com
 - uschovna.cz (Czech)
 - userscdn.com
+- userscloud.com
 - usersfiles.com
 - vds-host.com.ua (Russian)
 - veeosync.com
@@ -519,6 +549,7 @@
 - weshare.me
 - wetransfer.com
 - weup.co.il (Hebrew)
+- wickedcloud.io
 - wikifortio.com
 - wikisend.com
 - wikiupload.com
@@ -541,13 +572,16 @@
 - yourfilelink.com
 - yourfilestore.com
 - yourupload.com
+- yousaved.it
 - yunfile.com
 - zabfile.com
 - zapfile.net
 - zbcupload.com
+- zbigz.com
 - zeenshare.com
 - ziddu.com
 - ziifile.com
+- zippyloads.com
 - zippyshare.com
 - zofile.com
 - zorofiles.com
