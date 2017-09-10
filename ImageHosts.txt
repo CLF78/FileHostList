@@ -9,7 +9,6 @@
 - damimage.com
 - ddlw.org
 - dimtus.com
-- erimge.com
 - fapat.me
 - fastpic.ru
 - flickr.com
@@ -17,7 +16,6 @@
 - hosturimage.com
 - hulkimge.com
 - imagebam.com
-- imagebucks.biz
 - imagecurl.com
 - imagelija.com
 - imageontime.com
@@ -43,8 +41,7 @@
 - imgmaid.net
 - imgmaze.com
 - imgoutlet.co
-- imgrock.net
-- imgs.re
+- imgrock.co
 - imgs.to
 - imgserve.net
 - imgspice.com
@@ -55,7 +52,6 @@
 - imgtiger.org
 - imgtown.net
 - imgtrex.com
-- imgtwyti.com
 - imgur.com
 - imgview.co
 - imgwet.com
