@@ -163,6 +163,7 @@
 - file4safe.com
 - fileai.com
 - fileav.com
+- filebin.net
 - fileboom.me
 - filebox.com
 - filecad.com
@@ -216,6 +217,7 @@
 - filestore.to (German)
 - filesupload.org
 - filesuploading.com (Arabian)
+- filetea.me
 - filetrip.net
 - filetut.com
 - fileud.com
@@ -234,6 +236,7 @@
 - flyfiles.net
 - foxstore.org
 - foxyimg.link
+- framadrop.com
 - freakshare.com
 - free-uploading.com
 - freedisc.pl (Polish)
@@ -268,7 +271,6 @@
 - hostingrill.co
 - hostr.co
 - hostuje.net (Polish)
-- hotbytez.com
 - hotlink.cc
 - howfile.com
 - hubfiles.pw
@@ -313,6 +315,7 @@
 - kiwi6.com
 - lambda.sx
 - lambodata.com
+- lasana.rufian.eu
 - leteckaposta.cz (Czech)
 - lewd.se
 - linkz.ge
@@ -489,7 +492,9 @@
 - suprafiles.org
 - svfile.com
 - swoopshare.com
+- takeafile.com
 - takefile.link
+- temp-host.com
 - temp-share.com
 - tenlua.vn (Vietnamese)
 - terafilez.com
@@ -522,6 +527,7 @@
 - up-4ever.com
 - up.4share.vn (Vietnamese)
 - up.che.moe
+- up.is.cc
 - up.top4top.net (Arabian)
 - up07.me
 - up77.com (Arabian)
@@ -619,6 +625,7 @@
 - xuploads.com
 - xvidstage.com (German)
 - ydfile.com
+- ydray.com/?i=en
 - yuiko.xyz
 - yourfilelink.com
 - yourfilestore.com
