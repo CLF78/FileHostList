@@ -99,11 +99,13 @@
 - dir50.com
 - directupload.net (German)
 - dirrtyshar.es
+- discordlist.is-a.site
 - disk.karelia.pro (Russian)
 - disk.yandex.com
 - diskokosmiko.mx (Mexican)
 - dl.free.fr (French)
 - dlfiles.online
+- doko.moe
 - dopefile.pk
 - doraupload.com (Japanese)
 - dosya.tc (Turkish)
@@ -123,6 +125,7 @@
 - droplr.com
 - droppy.cz
 - dropsend.com
+- drp.io
 - dumpplace.com (Not sure about this one)
 - dysk.onet.pl (Polish)
 - easybytez.com
@@ -130,6 +133,7 @@
 - easysend.to
 - edisk.cz (Czech)
 - elsfile.org
+- en.42.meup.org
 - europeup.com
 - euroshare.eu
 - ex-load.com
@@ -152,6 +156,7 @@
 - file-space.org (Russian)
 - file-upload.com
 - file.al
+- file.quad.moe
 - file.town
 - file.up09.com
 - file4go.net (Spanish, mirror file4go.com)
@@ -241,6 +246,7 @@
 - furk.net
 - gamefront.online
 - ge.tt
+- geeku.be
 - germench.de/s/sharefiles
 - gigapeta.com
 - gigasize.com
@@ -280,6 +286,7 @@
 - invitationfile.com
 - iranupload.com (Arabian)
 - ironfiles.net
+- is-a.cricket
 - ishare.iask.sina.com.cn (Chinese) (Documents Only)
 - ishareupload.com
 - jandown.com
@@ -304,18 +311,24 @@
 - kenfiles.com
 - kingfile.pl (Polish)
 - kiwi6.com
+- lambda.sx
 - lambodata.com
 - leteckaposta.cz (Czech)
+- lewd.se
 - linkz.ge
 - linkzhost.com
 - littlebyte.net
 - load.to
 - longfiles.com
 - lot.moe
+- love.wump.club
+- love.wump.life
 - lunaticfiles.com (Polish)
 - m5zn.com (Arabian)
 - mailbigfile.com
 - manyuploading.com
+- maro.xyz
+- marto.does-love.men
 - media1fire.com (Arabian)
 - media4up.com
 - mediafile.co
@@ -352,6 +365,7 @@
 - narod.ru
 - nexupload.com
 - nfomation.net
+- nigger.ch
 - nitrobit.net (Hebrew)
 - nitroflare.com
 - nodefiles.com
@@ -370,6 +384,7 @@
 - opendrive.com
 - openload.co
 - orangefiles.me
+- ouns.net (Finnish)
 - owndrives.com
 - oxfiles.com
 - ozofiles.com
@@ -382,6 +397,10 @@
 - pobierz.to (Polish)
 - pogoplug.com
 - pomf.cat
+- pomf.co
+- pomf.lolisandstuff.moe
+- pomf.sinister.ly
+- pomf.space
 - portflares.com
 - poslisoubor.cz (Czech)
 - prefiles.net
@@ -417,6 +436,7 @@
 - samaup.com
 - scribd.com
 - sdilej.cz (Czech)
+- securesha.re
 - send-file.com
 - sendeyo.com/en/
 - sendfile.su (Russian)
@@ -429,6 +449,7 @@
 - sendtransfer.com
 - senduit.com
 - sexyfiles.biz
+- shanatan.moe (no .exe files)
 - share-online.biz
 - share.az (Azeri)
 - share.riseup.net
@@ -439,7 +460,9 @@
 - sharemods.com
 - shareplace.com
 - sharing.wtf
+- shigetora.pw
 - sibit.net (Russian)
+- sicp.me
 - sizedrive.com (Spanish)
 - solidfiles.com
 - sonda.me (Spanish)
@@ -458,6 +481,7 @@
 - streamfile.com
 - subyshare.com
 - sufile.com (Chinese)
+- suicide.moe
 - sunexenus.com
 - superbshare.com (Czech)
 - supershare.pl (Polish)
@@ -476,6 +500,7 @@
 - tinyupload.com
 - toofile.com
 - trainbit.com
+- transfer.sh
 - transferbigfiles.com
 - tropicshare.com
 - tunescoop.com
@@ -496,6 +521,7 @@
 - unibytes.com
 - up-4ever.com
 - up.4share.vn (Vietnamese)
+- up.che.moe
 - up.top4top.net (Arabian)
 - up07.me
 - up77.com (Arabian)
@@ -503,6 +529,7 @@
 - upera.co
 - upf.co.il (Hebrew)
 - upfile.mobi
+- upl.io
 - uplds.us
 - upload.cd
 - upload.com.ua (Russian)
@@ -556,6 +583,7 @@
 - usersfiles.com
 - vds-host.com.ua (Russian)
 - veeosync.com
+- vidga.me
 - vodlock.co
 - void.cat
 - volafile.org
@@ -569,6 +597,7 @@
 - weshare.me
 - wetransfer.com
 - weup.co.il (Hebrew)
+- wew.wtf
 - wickedcloud.io
 - wikifortio.com
 - wikisend.com
@@ -578,6 +607,7 @@
 - wizupload.com
 - workupload.com
 - worldbytez.com
+- wump.club
 - wushare.com
 - wyslijto.pl (Polish)
 - xdisk.cz (Czech)
@@ -589,6 +619,7 @@
 - xuploads.com
 - xvidstage.com (German)
 - ydfile.com
+- yuiko.xyz
 - yourfilelink.com
 - yourfilestore.com
 - yourupload.com
