@@ -18,7 +18,7 @@
 - get4all.org/cbox
 - getidn.net
 - gigaleecher.com
-- hubturkey.org/download.aspx
+- hubturkey.org/download.php
 - hungryleech.com
 - hyperspeeds.com
 - jetleech.com/free
@@ -32,7 +32,6 @@
 - megaleech.us
 - megarapido.net (Spanish)
 - multileech.net
-- oh.getlink4u.com
 - onleech.me
 - prem.link
 - premium-link.ninja
