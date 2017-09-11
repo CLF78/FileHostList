@@ -13,8 +13,10 @@
 - fastpic.ru
 - flickr.com
 - funkyimg.com
+- hizliresim.com (Turkish)
 - hosturimage.com
 - hulkimge.com
+- i.shexx.cc
 - imagebam.com
 - imagecurl.com
 - imagelija.com
@@ -85,4 +87,5 @@
 - turboimagehost.com
 - ultraimg.com
 - uploadhouse.com
+- vgy.me
 - wi.to
