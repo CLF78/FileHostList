@@ -51,9 +51,11 @@
 - brupload.net (Brazilian)
 - btafile.com
 - bytebx.com
+- catbox.moe
 - catshare.net (Polish)
 - catshare.org (Japanese)
 - chayfile.com
+- chen.2hu.moe
 - chomikuj.pl (Polish)
 - cimaclub.co (Arabian)
 - clicknupload.org
@@ -67,6 +69,7 @@
 - cloudyfiles.org
 - cnubis.com (Spanish)
 - come2store.com
+- comfy.moe
 - coolbytez.com
 - copy.com
 - cornfile.com
@@ -238,10 +241,12 @@
 - furk.net
 - gamefront.online
 - ge.tt
+- germench.de/s/sharefiles
 - gigapeta.com
 - gigasize.com
 - gimehost.com
 - girlshare.ro
+- glop.me
 - gmx.com/tools/file-storage/
 - grabitshare.com
 - gufiles.com
@@ -251,6 +256,7 @@
 - hellupload.com
 - hightail.com
 - hitfile.net
+- hnng.moe/sharefiles
 - host.hackerbox.org
 - host-a.net
 - hostingrill.co
@@ -305,6 +311,7 @@
 - littlebyte.net
 - load.to
 - longfiles.com
+- lot.moe
 - lunaticfiles.com (Polish)
 - m5zn.com (Arabian)
 - mailbigfile.com
@@ -327,8 +334,10 @@
 - micloudfiles.com
 - midiashared.com (Portoguese)
 - minhateca.com.br
+- minifiles.net
 - miupload.com
 - mixstep.co
+- mixtape.moe
 - monkifiles.com
 - mountfile.net
 - mp4upload.com
@@ -351,6 +360,7 @@
 - nowdownload.ch
 - nowdownload.sx
 - nowdownload.to
+- nup.pw
 - oboom.com
 - ofile.com
 - omerta.is
@@ -371,6 +381,7 @@
 - plunder.com
 - pobierz.to (Polish)
 - pogoplug.com
+- pomf.cat
 - portflares.com
 - poslisoubor.cz (Czech)
 - prefiles.net
@@ -392,10 +403,13 @@
 - rdownload.org
 - redbunker.net
 - redfile.eu
+- reich.io (German)
 - restfilee.com
 - rgho.st
 - rockfile.eu
+- rokket.space
 - rusfolder.com (Russian)
+- s.dclan.org/sharefiles
 - sabercathost.com
 - saikocloud.ml
 - sakurafile.com
@@ -417,6 +431,7 @@
 - sexyfiles.biz
 - share-online.biz
 - share.az (Azeri)
+- share.riseup.net
 - share.vnn.vn (Vietnamese)
 - share4web.com
 - sharecash.org
@@ -439,6 +454,7 @@
 - startfiles.org
 - storagely.com
 - storefileway.com
+- strace.club
 - streamfile.com
 - subyshare.com
 - sufile.com (Chinese)
@@ -467,6 +483,7 @@
 - turbofiles.net
 - turbovideos.net
 - tusfiles.net
+- u.teknik.io
 - uafile.com(Russian)
 - uberupload.net
 - uguu.se
@@ -540,6 +557,7 @@
 - vds-host.com.ua (Russian)
 - veeosync.com
 - vodlock.co
+- void.cat
 - volafile.org
 - vshare.io
 - w4files.pw
