@@ -4,6 +4,7 @@
 - 2giga.link
 - 2shared.com
 - 3adisk.com (Chinese)
+- 3rbup.com (Arabian)
 - 4bigbox.com
 - 4downfiles.org
 - 4share.vn (Vietnamese)
@@ -139,6 +140,7 @@
 - ex-load.com
 - exoshare.com
 - expirebox.com
+- extmatrix.com
 - eyesfile.ca
 - ezfiles.net
 - f2h.nana10.co.il (Hebrew)
