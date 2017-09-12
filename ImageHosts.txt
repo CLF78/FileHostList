@@ -1,5 +1,6 @@
 - 500px.com
 - acidimg.cc
+- affimg.org
 - bigimage.cz
 - biyori.moe
 - brasilturbo.com (Brazilian)
@@ -34,6 +35,7 @@
 - imgbb.net
 - imgbox.com
 - imgcandy.net
+- imgcherry.org
 - imgchili.net
 - imgclick.net
 - imgdew.com
@@ -68,6 +70,7 @@
 - mechoimages.com
 - photobucket.com
 - piccy.info
+- picpie.org
 - picsee.net
 - picstate.com
 - picwindow.com
