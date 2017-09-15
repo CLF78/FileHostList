@@ -1,47 +1,131 @@
-- 69.195.124.222/~kinetec1/js/
-- autogeneratelink.us
-- bigspeeds.com/service/
-- cboxera.com/cbox
-- cboxghostleech.com
-- cloudwebcopy.com
-- cyber4shared.com
-- dailyleech.com/cbox/cbox.php
-- debgen.fr/debrideur
-- debrid.me
-- debrid.xyz
-- exrapidleech.info/index.html
-- fakirdebrid.net
-- fastserver.me/big
-- free.giga-rapid.com
-- genbird.com
-- generatorlinkpremium.com
-- get4all.org/cbox
-- getidn.net
-- gigaleecher.com
-- hubturkey.org/download.php
-- hungryleech.com
-- hyperspeeds.com
-- jetleech.com/free
-- kingofdown.com
-- leech.ae
-- leech.alemdarleech.com
-- leech1s.com
-- leech360.com
-- leechpremium.link/cbox.html
-- linkgenerate.com
-- megaleech.us
-- megarapido.net (Spanish)
-- multileech.net
-- onleech.me
-- prem.link
-- premium-link.ninja
-- premiumleecher.com
-- publicleech.xyz
-- rocketize.me
-- sharedir.com
-- simply-debrid.com
-- superlinksbr.com (Brazilian)
-- totaldebrid.org
-- turkleech.com
-- vinaleech.com
-- vingabox.com/cbox.html
+- 69.195.124.222/~kinetec1/js/ (just transloads, no premium accounts are used)
+
+- autogeneratelink.us (1Fichier, 2Shared, 4Shared, 4Sync, Acefile, BDUpload, DailyUploads, DataFileHost, Diskokosmiko, ElsFile, FileFenix, FileRio, FilesUpload, Ge.tt, Indishare, KBagi, Mega, MP4Upload, Openload, Scribd, SendSpace, Sharemods, Slideshare, SolidFiles, Tusfiles, Upfile.mobi, Uppit, Userscloud, Usersfiles, Zippyshare, Zxcfiles)
+
+- bagusdl.pro (4Shared, AceFile, DailyUploads, Diskokosmiko, KBagi, Mega, Openload, UsersCloud)
+
+- bigspeeds.com/service/ (1Fichier, BigFile, ExtMatrix, FileFactory, Mediafire, RapidGator, Share-Online, UpToBox, Uploaded)
+
+- cboxera.com/cbox.html (1Fichier, 2Shared, Alfafile, BigFile,CatShare, ClickNUpload, DailyUploads, Data.hu, DataFile, DataFileHost, DepFile, DepositFiles, EasyBytez, ExtMatrix, FastShare.cz, FastStore, FileBoom, FileFactory, FileFlyer, FileRio, Filer, FilesFlash, FileShark, FilesMonster, FlorenFile, GigaSize, HitFile, Icerbox, InCloudDrive, LittleByte, LunaticFiles, Keep2Share, Mediafire, Mega, Minhateca, NitroFlare, NowDownload, OBoom, Openload, OzoFiles, PCloud, PreFiles, Publish2Me, RapidGator, Rapidu, RedFile, RockFile, SaleFiles, SendSpace, Share-Online, SolidFiles, TurboBit, TusFiles, Uloz.to, Upasias, UploadBoy, UploadCloud, Uploaded, UploadRocket, Uppit, UpToBox, UsersCloud, UsersFiles, Vip-File, WipFiles, WuShare, YunFile, ZippyShare)
+
+- cboxghostleech.com (1Fichier, 2Shared, 4Shared, AlfaFile, BigFile, BrFiles, BrUpload, DataFile, DepositFiles, ExtMatrix, FileFactory, FileRio, FilesFlash, FilesMonster, GigaSize, Keep2Share, Mediafire, Mega, Minhateca, NitroFlare, NowDownload, OBoom, RapidGator, SendSpace, Share-Online, TurboBit, TusFiles, Uploaded, UpToBox, ZippyShare)
+
+- cboxpremiumleech.net (1Fichier, 2Shared, 4Shared, BigFile, Catshare, Datafile, Depfile, Extmatrix, Filefactory, Fshare.vn, File4Go, FileFlyer, FilesFlash, Filerio, Hitfile, Mediafire, MinhaTeca, Mega, Nowdownload, Rapidgator, Scribd, Sendspace, Share-Online, Turbobit, Tusfiles, Uloz.to, UniBytes, Upload.cd, Uploaded, Uptobox, Userscloud, Usersfiles, YunFile, Zippyshare)
+
+- cloudwebcopy.com (1Fichier, 2Shared, 4Shared, 4Sync, Alfafile, Backin, EasyBytez, Extmatrix, Faststore, Filefactory, Fileflyer, Filesflash, Filesmonster, Inclouddrive, Nowdownload, Nowvideo, Prefiles, Rapidgator, Rockfile, Salefiles, Share-Online, Tusfiles, Uploaded, UpToBox, Uplod.ws, UsersCloud, UsersFiles, YunFile, ZippyShare)
+
+- cocoleech.com (1Fichier, AlfaFile, DataFile, ExtMatrix, FileFactory, Mega, RapidGator, Scribd, SlideShare, Uploaded, UpToBox, YouWatch)
+
+- cyber4shared.com (4Shared)
+
+- dailyleech.com/cbox/cbox.php (1Fichier, 4Shared, AlfaFile, Ausfile, Bigfile, Bitster, Clicknupload, Dailyuploads, Data.hu, Datafile, Datafilehost, Datator, Datoid, Depfile, Depositfiles, Dinoshare, Easybytez, EDisk, Euroshare, Ex-Load, Extmatrix, File.al, FileBoom, Filefactory, Filefox, Filejoker, Filenext, Filer, Filerio, Filesflash, Filesmonster, Filespace, Fireget, Fshare.vn, Gigapeta, Hitfile, Hotlink.cc, Icerbox, Katfile, Keep2Share, Mediafire, Mega, Mexashare, Nitroflare, Novafile, Nowvideo, OBoom, Openload, Ozofiles, Prefiles, Publish2.me, Rapidgator, Rapidu, Salefiles, Scribd, Sdilej, Sendspace, Share-Online, StreamCloud, Subyshare, Superbshare, Tezfiles, TheVideo, Turbobit, Tusfiles, Uloz.to, Unibytes, Upload.mn, Uploadboy, Uploadcloud, Uploaded, UploadGig, Uploadrocket, Upstore, Uptobox, Userscloud, Webshare.cz, Wipfiles, Wizupload, Wushare, Yunfile, Zippyshare)
+
+- debgen.fr/free-premium-link-generator/ (1Fichier, BigFile, Mega, SolidFiles, Uploaded, UpToBox)
+
+- debrid.me (2Shared, 4Sync, ExtMatrix, FileFactory, Mega, PreFiles, RapidGator, Uploaded, UpToBox)
+
+- debrid.xyz (AlfaFile, Data.hu, Datafile, Depfile, Faststore, Rapidu, Up.4share.vn, UploadRocket, Uppit, Yunfile)
+
+- debrideco.com (1fichier, 4Shared, Alfafile, Backin, Bigfile, Datafile, Depfile, Depositfiles, EasyBytez, Extmatrix, Ex-load, File.al, Filefactory, Filenext, Filer, Filesflash, Filesmonster, Hitfile, Icerbox, Inclouddrive, Katfile, Keep2share, Mediafire, Mega, Nitroflare, Oboom, Openload, Prefiles, Rapidgator, Share-Online, Tezfiles, Turbobit, Tusfiles, Unibytes, Uploadboy, Uploaded, Uploadgig, Uploadrocket, Uptobox, Upstore, Userscloud, Wushare, Zippyshare)
+
+- exrapidleech.info/index.html (1Fichier, 4Share.vn, 4Shared, Alfafile, BigFile, CatShare, DailyUploads, Data.hu, Datafile, DepFile, EasyBytez, ExtMatrix, FastShare, FileBoom, FileJoker, FilesFlash, Hotlink.cc, Keep2Share, NitroFlare, Oboom, Scribd, SendSpace, Ulozto.net,  Uploaded, UploadRocket, UpToBox, UsersCloud, Yunfile)
+
+- fakirdebrid.net (1fichier, Alfafile, Auroravid, Backin, Bigfile, Cloudtime.to, Datafile, Datei.to, Depfile, Easybytez, Faststore, Fileboom, Filefactory, Filenext, Filer, Filesmonster, Filespace, Flashx, Hitfile, Inclouddrive, Katfile, Keep2Shared, Mediafire, Nowvideo, Prefiles, Rapidgator, Rapidrar, Rapidu, Scribd, Share-Online, Tezfiles, Turbobit, Tusfiles, Unibytes, Uploaded, Uptobox, Userscloud, Zippyshare)
+
+- fastserver.me/big (4Shared, Diskokosmiko, Dl.free.fr, Minhateca, OBoom, Openload, UsersCDN, UsersCloud, UsersFiles, Workupload, Zxcfiles)
+
+- free.giga-rapid.com (1Fichier, FileFactory, FileJoker, FilesFlash, FilesMonster, Mega, NitroFlare, Rapidgator, Share-Online)
+
+- genbird.com (2Shared, 4Shared, DaoFile, DepFile, FileFactory, FilesFlash, HugeFiles, Mega, Mediafire, RockFile, SaleFiles, TurboBit, TusFiles, UpToBox)
+
+- generateall.com/service (1Fichier, BigFile, DataFile, DepFile, EasyBytez, FileFactory, FilesFlash, RapidGator, Share-Online, Uploaded, UpToBox, YunFile)
+
+- generatorlinkpremium.com (1Fichier, Crocko, Datafile, Keep2Share, Mega, NitroFlare, RapidGator, Uploaded, Upstore, UpToBox)
+
+- get4all.org/cbox (can't obtain list of supported sites, seems pretty big tho)
+
+ - getidn.net (can't obtain list here too)
+
+ - gigaleecher.com (FileFactory, RapidGator, Uploaded)
+
+- grab8.com (1fichier, 4share.vn, 4shared, Alfafile, Ausfile, Clicknupload, Dailymotion, Datafile, Depfile, Easybytez, Extmatrix, Filefactory, Fileflyer, Filenext, Filerio, Filescdn, Filesflash, Filetut, Gigapeta, Hitfile, Hotlink.cc, Mediafire, Mega, Oboom, Rapidgator, Rapidu, Sendspace, Turbobit, Tusfiles, Unibytes, Uploadboy, Uploaded, Uploadrocket, Uppit, Uptobox, Userscloud, Wushare, Yunfile, Zippyshare)
+
+- hubturkey.org/download.php (1Fichier, BigFile, DepFile, DepositFiles, HitFile, Mediafire, RapidGator, TurboBit, Uploaded, UpToBox)
+
+- hungryleech.com (DepositFiles, FileBoom, Nitroflare, RapidGator)
+
+- hyperspeeds.com (Mega, RapidGator, Uploaded, UpToBox)
+
+- jetleech.com/free (4Sync, DataFile, UsersCloud, UsersFiles)
+
+- jetleech.net (1Fichier, Alfafile, CatShare, Data.hu, DataFile, Depfile, FileFlyer, RapidGator, Rapidu, Up.4share.vn, Uploaded, Userscloud, Usersfiles, Yunfile)
+
+- juba-get.com (1Fichier, 4Shared, AlfaFile, DepFile, ExtMatrix, FileFactory, FilesFlash, KatFile, RapidGator, Share-Online, Uploaded, UpToBox, WuShare, YunFile, ZippyShare)
+
+- kingofdown.com (1Fichier, 2Shared, 4Shared, AuroraVid, Crocko, Datei.to, DepFile, Dl.free.fr, ExtMatrix, FileCloud, FileFlyer, FileFreak, Filer, FileRio, FilesFlash, FilesMonster, Freakshare, GigaPeta, GigaSize, Keep2Share, Load.to, Mediafire, Mega, NowDownload, NowVideo, OBoom, Przeklej, Rapidgator, RedBunker, Scribd, SendSpace, Share-Online, TurboBit, TusFiles, UniBytes, Uploaded, UpToBox, Uppit, Vip-File, YunFile, ZippyShare)
+
+- leech.ae (requires email, DepositFiles, FilesFlash, RapidGator, TurboBit, Uploaded)
+
+- leech.alemdarleech.com (1Fichier, 4Shared, AlfaFile, BigFile, DataFile, DepFile, DepositFiles, ExtMatrix, File.al, FileFactory, FileNext, GigaPeta, InCloudDrive, KatFile, Keep2Share, NitroFlare, NovaFile, Openload, Prefiles, RapidGator, Scribd, Share-Online, TurboBit, Upload.cd, Uploaded, UploadRocket, UpToBox, UsersCloud, WipFiles, WuShare, ZippyShare)
+
+- leech.ninja (Keep2Share, NitroFlare, RapidGator, Uploaded)
+
+- leech1s.com (1Fichier, 2Shared, AlfaFile, Backin, ClickNUpload, Data.hu, DataFile, DepositFiles, EasyBytez, Euroshare, Extmatrix, FileFactory, FileJoker, FilesFlash, FilesMonster, FileSpace, FShare.vn, Gigapeta, Hugefiles, InCloudDrive, LittleByte, Mediafire, Mega, Minhateca, NowDownload, OBoom, PCloud, PreFiles, Publish2.me, Rockfile, Scribd, SendSpace, Share-Online, TusFiles, UniBytes, Up.4share.vn, Upload.cd, Uploaded, UpToBox, UsersCloud, WuShare, YunFile, ZippyShare)
+
+- leech360.com (1Fichier, 4Share.vn, 4Shared, AlfaFile, DataFile, DepFile, EasyBytez, ExtMatrix, FileBoom, FileFactory, FileNext, FilesFlash, FilesMonster, FileSpace, FShare.vn, GigaPeta, KatFile, Keep2Share, Mega, NitroFlare, Openload, PreFiles, RareFile, SendSpace, Tenlua.vn, TezFiles, Uploaded, UploadRocket, UpToBox, UsersCloud, WuShare, YunFile)
+
+- leechall.com (1Fichier, 4Share.vn, 4Shared, Alfafile, Datafile, Depfile, Depositfiles, Extmatrix, Filefactory, Filesmonster, Inclouddrive, Katfile, Prefiles, Rapidgator, Rapidu, Scribd, Sendspace, Share-Online, Turbobit, Up.4share.vn, Uploaded, Uptobox, Wushare, Yunfile, Zippyshare)
+
+- leechgear.net (Uploaded)
+
+- leechking.com (FileFactory, RapidGator, Uploaded)
+
+- leechpremium.link/cbox.html (1fichier, 2Shared, 4shared, Alfafile, Ausfile, Bigfile, Catshare, Clicknupload, Dailyuploads, Daofile, Data.hu, Datafile, Depfile, Depositfiles, EasyBytez, Extmatrix, Faststore, File.al, FileBoom, Filefactory, Filejoker, Filenext, Filer, Filerio, Filesflash, Filesmonster, FileSpace, Filetut, Firedrop, Gigapeta, Hitfile, Hotlink.cc, Icerbox, Inclouddrive, Katfile, Keep2share, Littlebyte, Mediafire, Mega, Nitroflare, Oboom, Openload, Prefiles, Rapidgator, Rapidrar, Rapidu, Rarefile, Rockfile, Sendspace, Share-Online, Tezfiles, Turbobit, Tusfiles, Unibytes, Upload.cd, Uploadboy, Uploadcloud, Uploaded, Uploadgig, Uploadocean, Uploadrocket, Uppit, Uptobox, Userscloud, Wushare, YunFile, Zippyshare)
+
+- linkgenerate.com (2Shared, Acefiles, DataFilehost, Elsfile, Filefenix, Ge.tt, KBagi, Mega, Mp4upload, Oboom, Sendspace, Sharemods, Solidfiles, Tusfiles, Upfile.mobi, Upload.mobi, Uploads.to, Uppit, Userscloud, Usersfiles, Zxcfiles)
+
+- linkleech.net (4Shared, AuroraVid, BigFile, CatShare, Crocko, Datafile, DataFileHost, Depfile, Dl.Free.fr, Easybytez, Extmatrix, Filecloud.io, FileFactory, Fileflyer, FileFreak, Filerio, Filesflash, FilesMonster, Freakshare, Gigapeta, Gigasize, Load.to, Mediafire, Mega, NowDownload, NowVideo, Oboom, RapidGator, RareFile, Sendspace, Share-Online, Turbobit, Uploaded, Upstore, Uptobox, Yunfile, Zippyshare)
+
+- megaleech.us (2Shared, Crocko, Mediafire, RapidGator, Uploaded)
+
+- megarapido.net (Spanish) (1Fichier, 2shared, 4shared, ADrive, Brfiles, Crocko, File4go, FileNext, Fileboom, Filecloud, Filefactory, Filesmonster, Freakshare, Gigasize, Keep2share, Mediafire, Mega, Minhateca, NitroFlare, OBOOM, Rapidgator, Sendspace, UploadRocket, Uploaded, Uppit, Uptobox, Vip-file, Zippyshare)
+
+- multileech.net (Turkish)(Can't open the top menu)
+
+- oh.getlink4you.info (Can't get list of hosts)
+
+- onleech.me (1Fichier, 4Share.vn, 4Shared, AlfaFile, AusFile, BigFile, CatShare, ClickNUpload, CloudyFiles, DailyFiles, DailyUploads, DaoFile, Data.hu, DataFile, Datoid, DepFile, DepFile, DepositFiles, EasyBytez, EuroShare, Ex-Load, ExtMatrix, FastShare, File.al, File4Go, FileDot, FileFlyer, FileJoker, FileNext, FilePup, Filer, FileRio, FilesCDN, FilesFlash, FileShark, FileSpace, FileTut, FireDrop, FlexyDrive, FlorenFile, HitFile, HulkLoad, IcerBox, IndiShare, KatFile, Keep2Share, LittleByte, LunaticFiles, Mediafire, Mega, Minhateca, NitroFlare, NodeFiles, NovaFile, NowDownload, OBoom, Openload, OzoFiles, PCloud, PreFiles, RapidFileShare, RapidGator, RapidRar, Rapidu, RareFile, Scribd, SendSpace, Share-Online, StreamCloud, SupraFiles, TezFiles, TurboBit, TusFiles, Uloz.to, UniBytes, Upload.mn, UploadBoy, UploadCloud, Uploaded, UploadGig, UploadOcean, UploadRocket, Uploads.to, Uploadz, Uplod.ws, Uppit, UpToBox, UsersCloud, UsersFiles, WuShare, YunFile, ZippyShare)
+
+- preleech.com (1Fichier, 2shared, 4shared, Alfafile, Ausfile, Backin, Bigfile.to, Clicknupload, Dailyuploads, Daofile, Data.hu, Datafile, Datafilehost, Debfile, Depfile, Depositfiles, Easybytez, Euroshare, Ex-load, Extmatrix, Fastshare, Faststore, File.al, FileBoom, Filefactory, Fileflyer, Filefox, Filejoker, Filenext, Filepup, Filer, Filerio, Filesflash, Filesmonster, Filespace, Filetut, Firedrop, Fireget, Fshare.vn, Gigapeta, Gigasize, Hitfile, Hugefiles, Icerbox, Inclouddrive, Katfile, Keep2share, Littlebyte, Mediafire, Mega, Minhateca, Nitroflare, Novafile, Oboom, Openload, Pcloud, Prefiles, Publish2.me, Rapidgator, Rapidrar, Rapidu, Rarefile, Rockfile, Salefiles, Scribd, Sdilej, Sendspace, Share-online, Solidfiles, Subyshare, Takefile, Tezfiles, Turbobit, Tusfiles, Ulozto.net, Unibytes, Up.4share.vn, Upasias, Upload.cd, Upload.mn, Uploadboy, Uploadcloud, Uploaded, Uploadgig, Uploadrocket, Upstore, Uptobox, Userscloud, Wipfiles, Wushare, Yunfile, Zippyshare)
+
+ - prem.link (1fichier, 4share.vn, 4shared, Alfafile, Ausfile, Clicknupload, Dailymotion, Datafile, Depfile, Easybytez, Extmatrix, Filefactory, Fileflyer, Filenext, Filerio, Filescdn, Filesflash, Filetut, Gigapeta, Hitfile, Hotlink.cc, Mediafire, Mega, Oboom, Rapidgator, Rapidu, Sendspace, Turbobit, Tusfiles, Unibytes, Uploadboy, Uploaded, Uploadrocket, Uppit, Uptobox, Userscloud, Wushare, Yunfile, Zippyshare)
+
+- premium-link.ninja (UpToBox)
+
+- premiumleecher.com (Crocko, FileFactory, RapidGator, Uploaded)
+
+- publicleech.xyz (1Fichier, 4Share.vn, BigFile, EasyBytez, ExtMatrix, Share-Online, Uploaded, YunFile)
+
+- rapidgrab.pl (1Fichier, AlfaFile, File.al, FileFactory, FileFlyer, FileNext, Filer, InCloudDrive, PreFiles, UploadBoy, Uploaded, UsersCloud)
+
+- reevown.com (Uploaded)
+
+- rocketize.me (1Fichier, Alfafile, Bigfile, Datafile, Depfile, FileBoom, Icerbox, Keep2share, Mediafire, Mega, Nitroflare, Rapidgator, Share-online, Tusfiles, Uploaded, Uptobox, Userscloud, Zippyshare)
+
+- sharedir.com (1fichier, 4Shared, BigFile, DataFile, FileFactory, Filesmonster, HitFile, MediaFire, Mega, RapidRar, Rapidgator, Rockfile, TurboBit, Uploaded, Uptobox)
+
+- simply-debrid.com (1fichier, 2shared, ClicknUpload, Datafilehost, Dosya.tc, EuroShare, Fileflyer, FilesCDN, Filesflash, Firedrop, Mediafire, Sendspace, SlideShare, Solidfiles, Trainbit, Uploadboy, UploadRocket, Uppit, Uptobox, UsersFiles, WuShare, Yunfile, Zippyshare)
+
+- totaldebrid.org (4sync, Datafilehost, Fastshare, Filefactory, Fileflyer, Mega, Openload, Share-Online, Uptobox, Uppit, Usersfiles, Zippyshare)
+
+- turkdown.com (1Fichier, 4Shared, Backin, BigFile, ClickNUpload, DataFileHost, DepFile, FileFactory, FileFlyer, FileRio, FilesFlash, KatFile, Mail.ru, Mega, Openload, PCloud, PreFiles, RapidGator, TurboBit, Uploaded, UpToBox, UsersCloud, WuShare, YunFile, ZippyShare)
+
+- turkleech.com (Can't find a list of hosts)
+
+- uploadedpremiumlink.xyz (BrFiles, Mega, RapidGator, TurboBit, Uploaded, UploadRocket)
+
+- uptoleech.com (Mediafire, NitroFlare, RapidGator, TurboBit, Uploaded, UploadGig, UpToBox, UsersCloud)
+
+- vinaleech.com (2shared, 4shared, crocko, depfile, depositfiles, extmatrix, filefactory, filesmonster, freakshare, gigasize, mediafire, mega, novafile, nitrobit, rapidgator, rarefile, share-online, sendspace, turbobit, tusfiles, unibytes, uptobox, uploaded, uploadbaz, vip-file, ziddu, zippyshare)
+
+- vingabox.com/cbox.html (1Fichier, 2Shared, Diskokosmiko, FileFactory, FilesFlash, KatFile, Mediafire, Mega, Minhateca, SendSpace, SolidFiles, UploadBoy, Uploaded, UploadRocket, Uppit, UpToBox, UsersCloud, UsersFiles, WuShare, YunFile) 
