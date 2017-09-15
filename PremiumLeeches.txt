@@ -98,9 +98,11 @@
 
 - preleech.com (1Fichier, 2shared, 4shared, Alfafile, Ausfile, Backin, Bigfile.to, Clicknupload, Dailyuploads, Daofile, Data.hu, Datafile, Datafilehost, Debfile, Depfile, Depositfiles, Easybytez, Euroshare, Ex-load, Extmatrix, Fastshare, Faststore, File.al, FileBoom, Filefactory, Fileflyer, Filefox, Filejoker, Filenext, Filepup, Filer, Filerio, Filesflash, Filesmonster, Filespace, Filetut, Firedrop, Fireget, Fshare.vn, Gigapeta, Gigasize, Hitfile, Hugefiles, Icerbox, Inclouddrive, Katfile, Keep2share, Littlebyte, Mediafire, Mega, Minhateca, Nitroflare, Novafile, Oboom, Openload, Pcloud, Prefiles, Publish2.me, Rapidgator, Rapidrar, Rapidu, Rarefile, Rockfile, Salefiles, Scribd, Sdilej, Sendspace, Share-online, Solidfiles, Subyshare, Takefile, Tezfiles, Turbobit, Tusfiles, Ulozto.net, Unibytes, Up.4share.vn, Upasias, Upload.cd, Upload.mn, Uploadboy, Uploadcloud, Uploaded, Uploadgig, Uploadrocket, Upstore, Uptobox, Userscloud, Wipfiles, Wushare, Yunfile, Zippyshare)
 
- - prem.link (1fichier, 4share.vn, 4shared, Alfafile, Ausfile, Clicknupload, Dailymotion, Datafile, Depfile, Easybytez, Extmatrix, Filefactory, Fileflyer, Filenext, Filerio, Filescdn, Filesflash, Filetut, Gigapeta, Hitfile, Hotlink.cc, Mediafire, Mega, Oboom, Rapidgator, Rapidu, Sendspace, Turbobit, Tusfiles, Unibytes, Uploadboy, Uploaded, Uploadrocket, Uppit, Uptobox, Userscloud, Wushare, Yunfile, Zippyshare)
+- prem.link (1fichier, 4share.vn, 4shared, Alfafile, Ausfile, Clicknupload, Dailymotion, Datafile, Depfile, Easybytez, Extmatrix, Filefactory, Fileflyer, Filenext, Filerio, Filescdn, Filesflash, Filetut, Gigapeta, Hitfile, Hotlink.cc, Mediafire, Mega, Oboom, Rapidgator, Rapidu, Sendspace, Turbobit, Tusfiles, Unibytes, Uploadboy, Uploaded, Uploadrocket, Uppit, Uptobox, Userscloud, Wushare, Yunfile, Zippyshare)
 
 - premium-link.ninja (UpToBox)
+
+- premiumleech.eu (RapidGator, TurboBit, Uploaded)
 
 - premiumleecher.com (Crocko, FileFactory, RapidGator, Uploaded)
 
