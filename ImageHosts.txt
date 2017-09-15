@@ -10,13 +10,13 @@
 - damimage.com
 - ddlw.org
 - dimtus.com
-- fapat.me
 - fastpic.ru
 - flickr.com
 - funkyimg.com
 - hizliresim.com (Turkish)
 - hosturimage.com
 - hulkimge.com
+- i.ceanko.ru
 - i.shexx.cc
 - imagebam.com
 - imagecurl.com
@@ -42,6 +42,7 @@
 - imgdino.com
 - imgdrive.net
 - imgflare.com
+- imgh.us
 - imgmaid.net
 - imgmaze.com
 - imgoutlet.co
@@ -52,6 +53,7 @@
 - imgsrc.ru (Russian)
 - imgstudio.org
 - imgtaxi.com
+- imgtc.com
 - imgtiger.com
 - imgtiger.org
 - imgtown.net
@@ -82,6 +84,8 @@
 - postimages.org
 - qpic.ws
 - qrrro.com
+- qsand.de
+- s3phy.ecchi.ca/upload/ (French)
 - sharenxs.com
 - snapgr.am
 - snapgram.co
@@ -89,6 +93,14 @@
 - tinypic.com
 - turboimagehost.com
 - ultraimg.com
+- unsee.cc
+- up.4clubbers.pl (Polish)
+- up.iranxm.com
+- up.leech24.net
+- up.plcwww.com (Italian)
+- up.programosy.pl (Polish)
+- up.sa
 - uploadhouse.com
 - vgy.me
 - wi.to
+- xup.in/image (German)
