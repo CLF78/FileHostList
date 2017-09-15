@@ -1,5 +1,6 @@
 - embedupload.com
 - exoshare.com
+- filesupload.re
 - gigamirror.com
 - go4up.com
 - jheberg.net
@@ -9,6 +10,7 @@
 - mirrorsup.biz
 - multi-up.com
 - multifilemirror.com
+- multimirrorupload.com
 - multiup.org
 - multiupfile.com
 - mulup.biz
@@ -16,6 +18,7 @@
 - qooy.com
 - share-links.biz
 - updup.net
+- uploadmagnet.com
 - uploadmirrors.com
 - uploadonall.com
 - upmirror.info
