@@ -1,5 +1,7 @@
+- 0wx.org (mirrors .eu, .es, .cat)
 - 10000shared.com
 - 1fichier.com
+- 202.226.240.163/uploader/ (Japanese)
 - 2big2send.com
 - 2giga.link
 - 2shared.com
@@ -7,6 +9,7 @@
 - 3rbup.com (Arabian)
 - 4bigbox.com
 - 4downfiles.org
+- 4lpha.one
 - 4share.vn (Vietnamese)
 - 4shared.com
 - 4sync.com
@@ -20,30 +23,37 @@
 - acefile.co
 - adrive.com
 - alfafile.net
+- amaury.carrade.eu/upload (French)
 - amazon.com/clouddrive
 - amonshare.com
-- anafile.com (currently unavailable)
 - androidfilehost.com
 - androidhost.org
 - aniteca.zlx.com.br (Brazilian)
 - anonfile.com
+- anonfiles.cc
 - apkfiles.store
 - arab.sh (Arabian)
 - arabloads.net
 - ausfile.com
 - avatarshare.com
 - axfiles.net
+- ayy.lol
+- azurefiles.com
 - backin.net
 - bajoo.fr (French)
 - bankupload.com
 - bdupload.info
 - bduploadmor.com
+- beedig.com
 - big4shared.com
+- bigfile.io
 - bigfile.to
 - bigfilebox.com
+- bin.mypage.sk
 - bin.ge
+- bin.gvnv.net
 - birdload.com
-- bitload.to
+- bitsend.jp
 - bitster.cz
 - boltfile.com
 - borncash.org (Russian)
@@ -53,6 +63,7 @@
 - btafile.com
 - bytebx.com
 - catbox.moe
+- catgirl.pics
 - catshare.net (Polish)
 - catshare.org (Japanese)
 - chayfile.com
@@ -75,10 +86,12 @@
 - copy.com
 - cornfile.com
 - cosmobox.org
+- crank.city
 - crazyshare.cc
 - crockdown.com
 - crocko.com
 - ctfile.com (Chinese)
+- cubeupload.com
 - dailyfiles.net (Polish)
 - dailyuploads.net
 - daofile.com
@@ -108,6 +121,7 @@
 - dlfiles.online
 - doko.moe
 - dopefile.pk
+- doxbin.com
 - doraupload.com (Japanese)
 - dosya.tc (Turkish)
 - dosya.tv (Turkish)
@@ -116,8 +130,11 @@
 - downflow.net
 - downgb.com
 - downloadani.me
+- dr0p.it
+- dreik.se/upload
 - drive.google.com
 - drop.me
+- drop.unixcorn.org
 - dropapk.com
 - dropbox.com
 - dropcanvas.com
@@ -127,12 +144,15 @@
 - droppy.cz
 - dropsend.com
 - drp.io
+- dump.bitcheese.net
 - dumpplace.com (Not sure about this one)
 - dysk.onet.pl (Polish)
 - easybytez.com
+- easylinkshare.com
 - easypaste.org (Czech)
 - easysend.to
 - edisk.cz (Czech)
+- edisk.eu
 - elsfile.org
 - en.42.meup.org
 - europeup.com
@@ -158,13 +178,16 @@
 - file-space.org (Russian)
 - file-upload.com
 - file.al
+- file.io
 - file.quad.moe
 - file.town
 - file.up09.com
+- file43.com
 - file4go.net (Spanish, mirror file4go.com)
 - file4safe.com
 - fileai.com
 - fileav.com
+- filebin.ca
 - filebin.net
 - fileboom.me
 - filebox.com
@@ -200,6 +223,7 @@
 - filer.net (German)
 - filerio.in
 - files.com
+- files.f-o-g.eu
 - files.fm
 - filesabc.com (Japanese)
 - filesave.me
@@ -208,6 +232,7 @@
 - filescloud.co
 - filesflash.net
 - filesgator.com
+- filesha.re
 - fileshare.ro (Romanian)
 - fileshark.pl (Polish)
 - fileshd.net
@@ -217,9 +242,11 @@
 - filesspace.com
 - filestofriends.com
 - filestore.to (German)
+- filesup.me
 - filesupload.org
 - filesuploading.com (Arabian)
 - filetea.me
+- filetent.com
 - filetrip.net
 - filetut.com
 - fileud.com
@@ -235,14 +262,15 @@
 - flexydrive.com
 - flii.by
 - florenfile.com
+- flump.io
 - flyfiles.net
 - foxstore.org
-- foxyimg.link
 - framadrop.com
 - freakshare.com
 - free-uploading.com
 - freedisc.pl (Polish)
 - freefile.me (German)
+- freefiles.hosting
 - freshfile.pl (Polish)
 - fromsmash.com
 - fshare.in
@@ -259,9 +287,11 @@
 - girlshare.ro
 - glop.me
 - gmx.com/tools/file-storage/
+- grabilla.com/upload
 - grabitshare.com
 - gufiles.com
 - gzfile.com
+- hambox.fr/transfert/
 - harefile.com
 - hdupload.net
 - hellupload.com
@@ -282,11 +312,14 @@
 - hulkload.com
 - hyperfileshare.com
 - icerbox.com
+- icherryworkshop.com
+- ichigo-up.com (Japanese)
 - idrive.com
 - imzupload.com
 - inclouddrive.com
 - indishare.me
 - indoshares.com
+- instadrop.com
 - invitationfile.com
 - iranupload.com (Arabian)
 - ironfiles.net
@@ -315,6 +348,7 @@
 - kenfiles.com
 - kingfile.pl (Polish)
 - kiwi6.com
+- kouploader.jp (Japanese)
 - lambda.sx
 - lambodata.com
 - lasana.rufian.eu
@@ -322,7 +356,11 @@
 - lewd.se
 - linkz.ge
 - linkzhost.com
+- linx.li
+- linx.vtluug.org
+- linxb.in
 - littlebyte.net
+- lnx.li
 - load.to
 - longfiles.com
 - lot.moe
@@ -379,9 +417,11 @@
 - nowdownload.ch
 - nowdownload.sx
 - nowdownload.to
+- nullpo.vip2ch.com (Japanese)
 - nup.pw
 - oboom.com
 - ofile.com
+- ohayou.altervista.org
 - omerta.is
 - one2up.com (Thai)
 - onedrive.live.com
@@ -389,6 +429,7 @@
 - opendrive.com
 - openload.co
 - orangefiles.me
+- ortofiles.com
 - ouns.net (Finnish)
 - owndrives.com
 - oxfiles.com
@@ -398,6 +439,7 @@
 - pcloud.com
 - picstream.tv
 - pixeldra.in
+- plik.root.gg
 - plunder.com
 - pobierz.to (Polish)
 - pogoplug.com
@@ -409,12 +451,15 @@
 - portflares.com
 - poslisoubor.cz (Czech)
 - prefiles.net
+- psycho.space/#/upload
 - publish2.me
 - put.io
+- put.re
 - putcker.com
 - putdocs.com
 - putfiles.in
 - qtyfiles.com
+- quictransfer.com
 - rabidfiles.com
 - rapidfileshare.net
 - rapidgator.net
@@ -424,21 +469,26 @@
 - rapidu.net
 - rarefile.net (currently only premium users can upload)
 - rawfile.co
+- rbfi.io
 - rdownload.org
-- redbunker.net
 - redfile.eu
+- reep.io
 - reich.io (German)
 - restfilee.com
+- revernet.com/fileserver/
+- rfl.pw
 - rgho.st
 - rockfile.eu
 - rokket.space
 - rusfolder.com (Russian)
 - s.dclan.org/sharefiles
+- s-ul.eu
 - sabercathost.com
 - saikocloud.ml
 - sakurafile.com
 - salefiles.com
 - samaup.com
+- satoshibox.com
 - scribd.com
 - sdilej.cz (Czech)
 - securesha.re
@@ -461,6 +511,7 @@
 - share.vnn.vn (Vietnamese)
 - share4web.com
 - sharecash.org
+- shared.ninja
 - sharehost.eu (Polish)
 - sharemods.com
 - shareplace.com
@@ -488,6 +539,7 @@
 - sufile.com (Chinese)
 - suicide.moe
 - sunexenus.com
+- sung.malyjarda.cz
 - superbshare.com (Czech)
 - supershare.pl (Polish)
 - superupload.com
@@ -507,6 +559,7 @@
 - tinyupload.com
 - toofile.com
 - trainbit.com
+- transfa.re
 - transfer.sh
 - transferbigfiles.com
 - tropicshare.com
@@ -525,23 +578,37 @@
 - ulozto.net
 - ulozto.sk (Slovak)
 - ultimatedown.com
+- ume-up.ddo.jp (Japanese)
 - unibytes.com
 - up-4ever.com
+- up.3raq4all.com (Arabian)
 - up.4share.vn (Vietnamese)
 - up.che.moe
+- up.depado.eu
+- up.eku.su
+- up.ims.vn
 - up.is.cc
+- up.iui.vn (Vietnamese)
+- up.persianbam.ir (Arabian)
+- up.rymaa.com
 - up.top4top.net (Arabian)
+- up.tunisia-satellite.com
+- up.utau.us
 - up07.me
 - up77.com (Arabian)
 - upasias.com
+- upcharm.com
 - upera.co
 - upf.co.il (Hebrew)
 - upfile.mobi
 - upl.io
 - uplds.us
+- upload.bg
+- upload.blueberrypancak.es
 - upload.cd
 - upload.com.ua (Russian)
 - upload.ee
+- upload.lagit.in
 - upload.mn
 - upload.mobi
 - upload.zone
@@ -624,6 +691,7 @@
 - xn--gebzbbce.co.il (Hebrew)
 - xshare.eu (Polish)
 - xubster.com
+- xup.in (German)
 - xuploads.com
 - xvidstage.com (German)
 - ydfile.com
@@ -641,6 +709,7 @@
 - zeenshare.com
 - ziddu.com
 - ziifile.com
+- zimbali.net
 - zippyloads.com
 - zippyshare.com
 - zofile.com
