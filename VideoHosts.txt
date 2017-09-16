@@ -18,6 +18,7 @@
 - cloudy.ec
 - daclips.in
 - dailymotion.com
+- dtube.video
 - easyvid.org
 - estream.to
 - fastplay.to
