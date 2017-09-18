@@ -558,6 +558,7 @@
 - tikfile.com
 - tinyupload.com
 - toofile.com
+- top4upload.com
 - trainbit.com
 - transfa.re
 - transfer.sh
