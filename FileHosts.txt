@@ -107,7 +107,7 @@
 - delafil.se (Swedish)
 - depfile.com (mirrors : depfile.us, dipfile.com)
 - depofile.info
-- depositfiles.com
+- dfiles.eu
 - d-h.st
 - dinoshare.cz
 - dir50.com
@@ -346,6 +346,7 @@
 - keepresource.com (Chinese)
 - keepshare.net
 - kenfiles.com
+- killerleaks.com
 - kingfile.pl (Polish)
 - kiwi6.com
 - kouploader.jp (Japanese)
