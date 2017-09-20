@@ -38,15 +38,15 @@
 
 - genbird.com (2Shared, 4Shared, DaoFile, DepFile, FileFactory, FilesFlash, HugeFiles, Mega, Mediafire, RockFile, SaleFiles, TurboBit, TusFiles, UpToBox)
 
-- generateall.com/service (1Fichier, BigFile, DataFile, DepFile, EasyBytez, FileFactory, FilesFlash, RapidGator, Share-Online, Uploaded, UpToBox, YunFile)
+- generateall.com/service (Down)(1Fichier, BigFile, DataFile, DepFile, EasyBytez, FileFactory, FilesFlash, RapidGator, Share-Online, Uploaded, UpToBox, YunFile)
 
 - generatorlinkpremium.com (1Fichier, Crocko, Datafile, Keep2Share, Mega, NitroFlare, RapidGator, Uploaded, Upstore, UpToBox)
 
 - get4all.org/cbox (can't obtain list of supported sites, seems pretty big tho)
 
- - getidn.net (can't obtain list here too)
+- getidn.net (can't obtain list here too)
 
- - gigaleecher.com (FileFactory, RapidGator, Uploaded)
+- gigaleecher.com (FileFactory, RapidGator, Uploaded)
 
 - grab8.com (1fichier, 4share.vn, 4shared, Alfafile, Ausfile, Clicknupload, Dailymotion, Datafile, Depfile, Easybytez, Extmatrix, Filefactory, Fileflyer, Filenext, Filerio, Filescdn, Filesflash, Filetut, Gigapeta, Hitfile, Hotlink.cc, Mediafire, Mega, Oboom, Rapidgator, Rapidu, Sendspace, Turbobit, Tusfiles, Unibytes, Uploadboy, Uploaded, Uploadrocket, Uppit, Uptobox, Userscloud, Wushare, Yunfile, Zippyshare)
 
@@ -92,7 +92,7 @@
 
 - multileech.net (Turkish)(Can't open the top menu)
 
-- oh.getlink4you.info (Can't get list of hosts)
+- oh.getlink4you.info (Down)(Can't get list of hosts)
 
 - onleech.me (1Fichier, 4Share.vn, 4Shared, AlfaFile, AusFile, BigFile, CatShare, ClickNUpload, CloudyFiles, DailyFiles, DailyUploads, DaoFile, Data.hu, DataFile, Datoid, DepFile, DepFile, DepositFiles, EasyBytez, EuroShare, Ex-Load, ExtMatrix, FastShare, File.al, File4Go, FileDot, FileFlyer, FileJoker, FileNext, FilePup, Filer, FileRio, FilesCDN, FilesFlash, FileShark, FileSpace, FileTut, FireDrop, FlexyDrive, FlorenFile, HitFile, HulkLoad, IcerBox, IndiShare, KatFile, Keep2Share, LittleByte, LunaticFiles, Mediafire, Mega, Minhateca, NitroFlare, NodeFiles, NovaFile, NowDownload, OBoom, Openload, OzoFiles, PCloud, PreFiles, RapidFileShare, RapidGator, RapidRar, Rapidu, RareFile, Scribd, SendSpace, Share-Online, StreamCloud, SupraFiles, TezFiles, TurboBit, TusFiles, Uloz.to, UniBytes, Upload.mn, UploadBoy, UploadCloud, Uploaded, UploadGig, UploadOcean, UploadRocket, Uploads.to, Uploadz, Uplod.ws, Uppit, UpToBox, UsersCloud, UsersFiles, WuShare, YunFile, ZippyShare)
 
@@ -108,7 +108,7 @@
 
 - publicleech.xyz (1Fichier, 4Share.vn, BigFile, EasyBytez, ExtMatrix, Share-Online, Uploaded, YunFile)
 
-- rapidgrab.pl (1Fichier, AlfaFile, File.al, FileFactory, FileFlyer, FileNext, Filer, InCloudDrive, PreFiles, UploadBoy, Uploaded, UsersCloud)
+- rapidgrab.pl (Down)(1Fichier, AlfaFile, File.al, FileFactory, FileFlyer, FileNext, Filer, InCloudDrive, PreFiles, UploadBoy, Uploaded, UsersCloud)
 
 - reevown.com (Uploaded)
 
