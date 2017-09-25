@@ -285,6 +285,7 @@
 - gigasize.com
 - gimehost.com
 - girlshare.ro
+- global-files.net
 - glop.me
 - gmx.com/tools/file-storage/
 - grabilla.com/upload
@@ -335,6 +336,7 @@
 - jumbofilebox.com
 - jumbofiles.org
 - jumpshare.com
+- jumpx.ua (Russian)
 - justbeamit.com
 - k2s.cc
 - katfile.com
