@@ -187,6 +187,7 @@
 - file4safe.com
 - fileai.com
 - fileav.com
+- filebebo.net
 - filebin.ca
 - filebin.net
 - fileboom.me
@@ -225,6 +226,7 @@
 - files.com
 - files.f-o-g.eu
 - files.fm
+- files.pw
 - filesabc.com (Japanese)
 - filesave.me
 - filesbomb.in
@@ -696,6 +698,7 @@
 - xfilesharing.us
 - xn--gebzbbce.co.il (Hebrew)
 - xshare.eu (Polish)
+- xshare.net
 - xubster.com
 - xup.in (German)
 - xuploads.com
