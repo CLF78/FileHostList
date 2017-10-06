@@ -341,6 +341,7 @@
 - jumpshare.com
 - jumpx.ua (Russian)
 - justbeamit.com
+- jxpan.cc (Chinese, make sure to include "www.")
 - k2s.cc
 - katfile.com
 - katzfiles.com
@@ -710,6 +711,7 @@
 - yourfilestore.com
 - yourupload.com
 - yousaved.it
+- yousuwp.com (Chinese)
 - yunfile.com
 - zabfile.com
 - zapfile.net
