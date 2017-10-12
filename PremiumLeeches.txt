@@ -1,3 +1,5 @@
+- 10-download.com (can't find a list of hosts)
+
 - 69.195.124.222/~kinetec1/js/ (just transloads, no premium accounts are used)
 
 - autogeneratelink.us (1Fichier, 2Shared, 4Shared, 4Sync, Acefile, BDUpload, DailyUploads, DataFileHost, Diskokosmiko, ElsFile, FileFenix, FileRio, FilesUpload, Ge.tt, Indishare, KBagi, Mega, MP4Upload, Openload, Scribd, SendSpace, Sharemods, Slideshare, SolidFiles, Tusfiles, Upfile.mobi, Uppit, Userscloud, Usersfiles, Zippyshare, Zxcfiles)
@@ -100,9 +102,13 @@
 
 - premium-link.ninja (UpToBox)
 
+- premium-uploaded.net (Uploaded)
+
 - premiumleech.eu (RapidGator, TurboBit, Uploaded)
 
 - premiumleecher.com (Crocko, FileFactory, RapidGator, Uploaded)
+
+- premiumtoss.com (1Fichier, 4Shared, AlfaFile, BigFile, DepFile, FileFactory, FilesFlash, HugeFiles, MediaFire, Mega, Openload, TurboBit, Uploaded)
 
 - publicleech.xyz (1Fichier, 4Share.vn, BigFile, EasyBytez, ExtMatrix, Share-Online, Uploaded, YunFile)
 
@@ -114,11 +120,15 @@
 
 - simply-debrid.com (1fichier, 2shared, ClicknUpload, Datafilehost, Dosya.tc, EuroShare, Fileflyer, FilesCDN, Filesflash, Firedrop, Mediafire, Sendspace, SlideShare, Solidfiles, Trainbit, Uploadboy, UploadRocket, Uppit, Uptobox, UsersFiles, WuShare, Yunfile, Zippyshare)
 
+- somadownloader.com (Uploaded, UpToBox)
+
 - totaldebrid.org (4sync, Datafilehost, Fastshare, Filefactory, Fileflyer, Mega, Openload, Share-Online, Uptobox, Uppit, Usersfiles, Zippyshare)
 
 - turkdown.com (1Fichier, 4Shared, Backin, BigFile, ClickNUpload, DataFileHost, DepFile, FileFactory, FileFlyer, FileRio, FilesFlash, KatFile, Mail.ru, Mega, Openload, PCloud, PreFiles, RapidGator, TurboBit, Uploaded, UpToBox, UsersCloud, WuShare, YunFile, ZippyShare)
 
 - turkleech.com (Can't find a list of hosts)
+
+- uploaded-premium-link-generator.com (Uploaded)
 
 - uploadedpremiumlink.xyz (BrFiles, Mega, RapidGator, TurboBit, Uploaded, UploadRocket)
 
