@@ -224,6 +224,7 @@
 - filer.net (German)
 - filerio.in
 - files.com
+- files.d-lan.dp.ua (Russian)
 - files.f-o-g.eu
 - files.fm
 - files.pw
