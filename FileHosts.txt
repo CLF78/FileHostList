@@ -580,14 +580,11 @@
 - turbovideos.net
 - tusfiles.net
 - u.teknik.io
-- uafile.com(Russian)
+- uafile.com (Russian)
 - uberupload.net
 - uguu.se
-- uloz.to (Czech)
+- uloz.to (Czech) (mirrors : ulozto.net, ulozto.cz, ulozto.sk)
 - ulozisko.sk (Slovak)
-- ulozto.cz (Czech)
-- ulozto.net
-- ulozto.sk (Slovak)
 - ultimatedown.com
 - ume-up.ddo.jp (Japanese)
 - unibytes.com
@@ -648,8 +645,8 @@
 - uploadserv.com
 - uploadspace.org
 - uploadwinners.com
+- uploadx.com
 - uploadx.link
-- uploadx.org
 - uploadz.org
 - uplod.cc
 - uplod.co
