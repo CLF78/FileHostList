@@ -18,6 +18,7 @@
 - daclips.in
 - dailymotion.com
 - dtube.video
+- deltabit.co
 - easyvid.org
 - estream.to
 - fastplay.to
