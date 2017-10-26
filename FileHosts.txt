@@ -114,6 +114,7 @@
 - directupload.net (German)
 - dirrtyshar.es
 - discordlist.is-a.site
+- disk-space.ru (Russian)
 - disk.karelia.pro (Russian)
 - disk.yandex.com
 - diskokosmiko.mx (Mexican)
@@ -174,6 +175,7 @@
 - fboom.me
 - fenixfile.com
 - fenixshare.com
+- file-seven.com (Russian)
 - file-share.top (Czech)
 - file-space.org (Russian)
 - file-upload.com
@@ -182,6 +184,7 @@
 - file.quad.moe
 - file.town
 - file.up09.com
+- file4.net
 - file43.com
 - file4go.net (Spanish, mirror file4go.com)
 - file4safe.com
@@ -566,6 +569,7 @@
 - thaicyberupload.com
 - the7sky.info
 - tikfile.com
+- tinyfileshost.com
 - tinyupload.com
 - toofile.com
 - top4upload.com
