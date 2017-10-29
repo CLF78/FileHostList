@@ -424,6 +424,7 @@
 - nitrobit.net (Hebrew)
 - nitroflare.com
 - nodefiles.com
+- nofile.io
 - nomofile.com
 - novafile.com
 - nowdownload.ch
