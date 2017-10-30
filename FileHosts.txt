@@ -393,7 +393,9 @@
 - megafile.pl (Polish)
 - megafiles.us
 - megafirez.com
+- megaload.co
 - megasync.net
+- megaup.net
 - megaupload.vsevjednom.cz (Czech)
 - mechoshare.com
 - meocloud.pt (Portoguese)
@@ -418,6 +420,7 @@
 - mystore.to
 - nahraj.to (Czech)
 - narod.ru
+- netshare.cz (Czech)
 - nexupload.com
 - nfomation.net
 - nigger.ch
@@ -624,6 +627,7 @@
 - upload.lagit.in
 - upload.mn
 - upload.mobi
+- upload.re
 - upload.zone
 - uploadas.com
 - uploadbank.com
