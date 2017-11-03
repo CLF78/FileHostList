@@ -1,6 +1,6 @@
 # FileHostList
-Hi ! Here's an updated list of various cyberlockers/cloud storage, premium leeches and other sites. I will try to keep this updated, feel free to report any site as down or closed with an issue, or even suggest new sites.
+We are moving ! Go to the official wiki : https://filehostlist.miraheze.org (registrations are open, if you want t be able to edit and help the wiki)
 
-Make sure to use an adblocker and a script such as AdsBypasser to get rid of ads in the listed sites. May contain adult content.
+These lists will be kept for easy HTTP checks and for the data that still needs to be ported.
 
-Winning isn't Normal. (adding it to make that writer look dumb)
+If you're wondering, Miraheze is a non-profit wiki farm. The hosted wikis are ad-free and without any difference from a self-hosted wiki (so consider donating to this amazing project).
