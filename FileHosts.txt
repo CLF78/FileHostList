@@ -1,5 +1,4 @@
 - 0wx.org (mirrors .eu, .es, .cat)
-- 10000shared.com
 - 1fichier.com
 - 202.226.240.163/uploader/ (Japanese)
 - 2big2send.com
@@ -17,6 +16,7 @@
 - 666kb.com (German)
 - 700files.com
 - 76fengyun.com (Chinese)
+- 777pan.cc (Chinese)
 - 9xupload.me
 - abload.de (German)
 - abmatrix.com
@@ -53,6 +53,7 @@
 - bin.ge
 - bin.gvnv.net
 - birdload.com
+- bit-share.com
 - bitsend.jp
 - bitster.cz
 - boltfile.com
@@ -93,7 +94,7 @@
 - ctfile.com (Chinese)
 - cubeupload.com
 - dailyfiles.net (Polish)
-- dailyuploads.net
+- dailyuploads.cc
 - daofile.com
 - data.hu (Hungarian)
 - datafile.com
@@ -134,12 +135,14 @@
 - dr0p.it
 - dreik.se/upload
 - drive.google.com
+- drivehq.com
 - drop.me
 - drop.unixcorn.org
 - dropapk.com
 - dropbox.com
 - dropcanvas.com
 - dropfile.to
+- dropmefiles.com
 - dropjiffy.com
 - droplr.com
 - droppy.cz
@@ -154,6 +157,7 @@
 - easysend.to
 - edisk.cz (Czech)
 - edisk.eu
+- elephantafiles.com
 - elsfile.org
 - en.42.meup.org
 - europeup.com
@@ -221,6 +225,7 @@
 - filekeen.com
 - fileload.info
 - filemac.com
+- filemass.net
 - filenext.com
 - filenurse.com
 - filepup.net
@@ -396,6 +401,7 @@
 - megaload.co
 - megasync.net
 - megaup.net
+- megaupload.us
 - megaupload.vsevjednom.cz (Czech)
 - mechoshare.com
 - meocloud.pt (Portoguese)
@@ -413,6 +419,7 @@
 - mrkzgulf.com (Arabian)
 - multcloud.com
 - my-files.ru (Russian)
+- myairbridge.com
 - myfiles.onl
 - myfreefilehosting.com
 - myotherdrive.com
@@ -430,9 +437,6 @@
 - nofile.io
 - nomofile.com
 - novafile.com
-- nowdownload.ch
-- nowdownload.sx
-- nowdownload.to
 - nullpo.vip2ch.com (Japanese)
 - nup.pw
 - oboom.com
@@ -453,6 +457,7 @@
 - pan.baidu.com (Chinese)
 - panmind.com
 - pcloud.com
+- peredayka.com (Russian)
 - picstream.tv
 - pixeldra.in
 - plik.root.gg
@@ -526,6 +531,7 @@
 - share.riseup.net
 - share.vnn.vn (Vietnamese)
 - share4web.com
+- sharebit-upload.com
 - sharecash.org
 - shared.ninja
 - sharefile.com
@@ -581,6 +587,7 @@
 - transfa.re
 - transfer.sh
 - transferbigfiles.com
+- transfile.ru
 - tropicshare.com
 - tunescoop.com
 - turbobit.net
@@ -590,6 +597,7 @@
 - u.teknik.io
 - uafile.com (Russian)
 - uberupload.net
+- ubiqfile.com
 - uguu.se
 - uloz.to (Czech) (mirrors : ulozto.net, ulozto.cz, ulozto.sk)
 - ulozisko.sk (Slovak)
@@ -627,6 +635,7 @@
 - upload.lagit.in
 - upload.mn
 - upload.mobi
+- upload.r34.club
 - upload.re
 - upload.zone
 - uploadas.com
