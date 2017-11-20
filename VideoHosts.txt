@@ -15,6 +15,7 @@
 - cloudtime.to
 - cloudup.com
 - cloudy.ec
+- crowdstream.video
 - daclips.in
 - dailymotion.com
 - dtube.video
