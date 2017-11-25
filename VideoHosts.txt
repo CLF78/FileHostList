@@ -24,6 +24,7 @@
 - estream.to
 - fastplay.to
 - faststream.ws
+- fileone.tv
 - flashx.tv
 - gamovideo.com
 - gorillavid.in
