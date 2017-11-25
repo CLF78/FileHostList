@@ -12,7 +12,6 @@
 - 4share.vn (Vietnamese)
 - 4shared.com
 - 4sync.com
-- 5azn.net
 - 666kb.com (German)
 - 700files.com
 - 76fengyun.com (Chinese)
@@ -28,14 +27,15 @@
 - amonshare.com
 - androidfilehost.com
 - androidhost.org
+- anafile.com
 - aniteca.zlx.com.br (Brazilian)
 - anonfile.com
 - anonfiles.cc
 - apkfiles.store
 - arab.sh (Arabian)
 - arabloads.net
+- attachmore.com
 - ausfile.com
-- avatarshare.com
 - axfiles.net
 - ayy.lol
 - azurefiles.com
@@ -56,6 +56,7 @@
 - bit-share.com
 - bitsend.jp
 - bitster.cz
+- blackloader.com
 - boltfile.com
 - borncash.org (Russian)
 - box.com
@@ -79,7 +80,7 @@
 - cloudlocker.biz
 - cloudmyfile.com
 - cloudupload.co
-- cloudyfiles.org
+- cloudyfiles.com
 - cnubis.com (Spanish)
 - come2store.com
 - comfy.moe
@@ -131,7 +132,6 @@
 - douploads.com
 - downace.com
 - downflow.net
-- downgb.com
 - downloadani.me
 - dr0p.it
 - dreik.se/upload
@@ -151,6 +151,7 @@
 - drp.io
 - dump.bitcheese.net
 - dumpplace.com (Not sure about this one)
+- dunshare.com
 - dysk.onet.pl (Polish)
 - easybytez.com
 - easylinkshare.com
@@ -217,6 +218,7 @@
 - fileflyer.com
 - filefox.cc
 - filefreak.com
+- filegooi.co.za
 - filehd.host
 - filehorst.de (German)
 - filehost.net
@@ -298,6 +300,7 @@
 - gigasize.com
 - gimehost.com
 - girlshare.ro
+- glbupload.com
 - global-files.net
 - glop.me
 - gmx.com/tools/file-storage/
@@ -335,7 +338,6 @@
 - indoshares.com
 - instadrop.com
 - invitationfile.com
-- iranupload.com (Arabian)
 - ironfiles.net
 - is-a.cricket
 - ishare.iask.sina.com.cn (Chinese) (Documents Only)
@@ -488,6 +490,7 @@
 - rapidpaid.com
 - rapidrar.com
 - rapidstone.com
+- rapidturk.com
 - rapidu.net
 - rarefile.net (currently only premium users can upload)
 - rawfile.co
@@ -515,6 +518,7 @@
 - sdilej.cz (Czech)
 - securesha.re
 - send-file.com
+- send6.com
 - sendeyo.com/en/
 - sendfile.su (Russian)
 - sendit.cloud
@@ -530,7 +534,6 @@
 - share-online.biz
 - share.az (Azeri)
 - share.riseup.net
-- share.vnn.vn (Vietnamese)
 - share4web.com
 - sharebit-upload.com
 - sharecash.org
@@ -567,7 +570,7 @@
 - superbshare.com (Czech)
 - supershare.pl (Polish)
 - superupload.com
-- suprafiles.org
+- suprafiles.net
 - svfile.com
 - swoopshare.com
 - takeafile.com
@@ -582,6 +585,7 @@
 - tikfile.com
 - tinyfileshost.com
 - tinyupload.com
+- tohax.com
 - toofile.com
 - top4upload.com
 - trainbit.com
@@ -675,14 +679,15 @@
 - uppit.com
 - upstore.net
 - uptobox.com
-- uptodo.net
 - urupload.com
 - usaupload.net
 - usbupload.com
 - uschovna.cz (Czech)
 - userscdn.com
 - userscloud.com
+- usersdrive.com
 - usersfiles.com
+- userupload.net
 - vds-host.com.ua (Russian)
 - veeosync.com
 - vidga.me
@@ -696,6 +701,7 @@
 - we4load.com
 - webfilehost.com
 - webshare.cz (Czech)
+- webyshare.com
 - weshare.me
 - wetransfer.com
 - weup.co.il (Hebrew)
@@ -712,6 +718,7 @@
 - wump.club
 - wushare.com
 - wyslijto.pl (Polish)
+- xdacloud.com
 - xdisk.cz (Czech)
 - xeupload.com
 - xfilesharing.us
@@ -739,6 +746,7 @@
 - ziddu.com
 - ziifile.com
 - zimbali.net
+- zipezap.com (Italian)
 - zippyloads.com
 - zippyshare.com
 - zofile.com
