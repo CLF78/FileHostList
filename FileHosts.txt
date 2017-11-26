@@ -103,6 +103,7 @@
 - datoid.cz (Czech)
 - dbr.ee
 - debfile.com
+- degoo.com
 - delafil.se (Swedish)
 - depfile.com (mirrors : depfile.us, dipfile.com)
 - depofile.info
@@ -130,6 +131,7 @@
 - douploads.com
 - downace.com
 - downflow.net
+- download.cloudatcost.com
 - downloadani.me
 - dr0p.it
 - dreik.se/upload (add www. before the URL)
@@ -403,6 +405,7 @@
 - multcloud.com
 - my-files.ru (Russian)
 - myairbridge.com
+- myfile.org
 - myfiles.onl
 - myfreefilehosting.com
 - myotherdrive.com
@@ -424,11 +427,12 @@
 - nup.pw
 - oboom.com
 - ofile.com
+- oleupload.com
 - omerta.is
 - one2up.com (Thai)
 - onedrive.live.com
 - opendrive.com
-- openload.co
+- openload.co (mirror : oload.stream)
 - orangefiles.me
 - ortofiles.com
 - ouns.net (Finnish)
@@ -671,6 +675,7 @@
 - webfilehost.com
 - webshare.cz (Czech)
 - webyshare.com
+- wefice.com
 - weshare.me
 - wetransfer.com
 - weup.co.il (Hebrew)
@@ -694,6 +699,7 @@
 - xn--gebzbbce.co.il (Hebrew)
 - xshare.eu (Polish)
 - xshare.net
+- xtreamdrive.com
 - xubster.com
 - xup.in (German)
 - xuploads.com
