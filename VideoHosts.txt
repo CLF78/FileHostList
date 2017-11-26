@@ -1,13 +1,12 @@
 - 1tube.to
-- 7nowvideo.com
-- 9xplay.org
+- 24video.net (Russian)
+- 9xplay.live
 - abysstream.com
 - akstream.video
 - akvideo.stream
 - ani-stream.com
 - anyfiles.pl (Polish)
 - auroravid.to
-- bestream.tv
 - bitvid.sx
 - cda.pl (Polish)
 - clipwatching.com
@@ -18,12 +17,11 @@
 - crowdstream.video
 - daclips.in
 - dailymotion.com
-- dtube.video
+- d.tube
 - deltabit.co
 - easyvid.org
 - estream.to
 - fastplay.to
-- faststream.ws
 - fileone.tv
 - flashx.tv
 - gamovideo.com
@@ -32,7 +30,6 @@
 - hellspy.cz (Czech)
 - hdvid.tv
 - idowatch.net
-- kingvid.tv
 - mixloads.com
 - moevideo.club (Russian)
 - moshahda.net (Arabian)
@@ -40,9 +37,7 @@
 - myvi.ru (Russian)
 - netu.tv
 - nicovideo.jp (Japanese)
-- nowvideo.ag
-- nowvideo.li
-- nowvideo.to
+- nowvideo.li (mirrors : nowvideo.ag, nowvideo.to)
 - ok.ru (Russian)
 - powvideo.net
 - prehrajto.cz (Czech)
@@ -90,5 +85,6 @@
 - watchvideo.us
 - wholecloud.net
 - wstream.video
+- xvidstage.com
 - youtube.com
 - youwatch.org
