@@ -1,5 +1,5 @@
 # FileHostList
-We are moving ! Go to the official wiki : https://filehostlist.miraheze.org (registrations are open, if you want t be able to edit and help the wiki)
+We are moving ! Go to the official wiki : https://filehostlist.miraheze.org (registrations are open, if you want to be able to edit and help the wiki)
 
 These lists will be kept for easy HTTP checks and for the data that still needs to be ported.
 
