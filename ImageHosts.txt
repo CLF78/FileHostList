@@ -19,7 +19,6 @@
 - hosturimage.com
 - hulkimge.com
 - i.ceanko.ru
-- i.shexx.cc
 - imagebam.com
 - imagecurl.com
 - imagelija.com
@@ -67,7 +66,6 @@
 - ironimg.net
 - klikr.org
 - lightpics.net
-- lookpic.com
 - myimagebuddy.com
 - myimagehosting.com
 - mechoimages.com
@@ -76,7 +74,6 @@
 - picpie.org
 - picsee.net
 - picstate.com
-- picwindow.com
 - pimpandhost.com
 - pixabay.com
 - pixhost.org
