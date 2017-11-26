@@ -30,13 +30,11 @@
 - anafile.com
 - aniteca.zlx.com.br (Brazilian)
 - anonfile.com
-- anonfiles.cc
 - apkfiles.store
 - arab.sh (Arabian)
 - arabloads.net
 - attachmore.com
 - ausfile.com
-- axfiles.net
 - ayy.lol
 - azurefiles.com
 - backin.net
@@ -51,7 +49,6 @@
 - bigfilebox.com
 - bin.mypage.sk
 - bin.ge
-- bin.gvnv.net
 - birdload.com
 - bit-share.com
 - bitsend.jp
@@ -95,7 +92,7 @@
 - ctfile.com (Chinese)
 - cubeupload.com
 - dailyfiles.net (Polish)
-- dailyuploads.cc
+- dailyuploads.net
 - daofile.com
 - data.hu (Hungarian)
 - datafile.com
@@ -109,10 +106,10 @@
 - delafil.se (Swedish)
 - depfile.com (mirrors : depfile.us, dipfile.com)
 - depofile.info
-- dfiles.eu
+- depositfiles.com
 - d-h.st
 - dinoshare.cz
-- dir50.com
+- dir50.net
 - directupload.net (German)
 - dirrtyshar.es
 - discordlist.is-a.site
@@ -122,6 +119,7 @@
 - diskokosmiko.mx (Mexican)
 - dl.free.fr (French)
 - dlfiles.online
+- docdroid.net (Documents Only)
 - doko.moe
 - dopefile.pk
 - doxbin.com
@@ -134,7 +132,7 @@
 - downflow.net
 - downloadani.me
 - dr0p.it
-- dreik.se/upload
+- dreik.se/upload (add www. before the URL)
 - drive.google.com
 - drivehq.com
 - drop.me
@@ -185,7 +183,7 @@
 - file-share.top (Czech)
 - file-space.org (Russian)
 - file-upload.com
-- file.al
+- file.al (use HTTPS)
 - file.io
 - file.quad.moe
 - file.town
@@ -196,7 +194,7 @@
 - file4safe.com
 - fileai.com
 - fileav.com
-- filebebo.net
+- filebebo.com
 - filebin.ca
 - filebin.net
 - fileboom.me
@@ -227,7 +225,6 @@
 - filejoker.net
 - filekeen.com
 - fileload.info
-- filemac.com
 - filemass.net
 - filenext.com
 - filenurse.com
@@ -238,14 +235,11 @@
 - files.d-lan.dp.ua (Russian)
 - files.f-o-g.eu
 - files.fm
-- files.pw
 - filesabc.com (Japanese)
 - filesave.me
 - filesbomb.in
 - filescdn.com
-- filescloud.co
 - filesflash.net
-- filesgator.com
 - filesha.re
 - fileshare.ro (Romanian)
 - fileshark.pl (Polish)
@@ -265,14 +259,12 @@
 - filetrip.net
 - filetut.com
 - fileud.com
-- fileupload.link
 - fileupload.pw
 - fileupup.com
 - fileze.net
 - filezog.com
 - firedrop.com
 - fireget.com
-- fireswap.org
 - fistfast.net
 - flexydrive.com
 - flii.by
@@ -280,7 +272,7 @@
 - flump.io
 - flyfiles.net
 - foxstore.org
-- framadrop.com
+- framadrop.org
 - freakshare.com
 - free-uploading.com
 - freedisc.pl (Polish)
@@ -297,7 +289,6 @@
 - geeku.be
 - germench.de/s/sharefiles
 - gigapeta.com
-- gigasize.com
 - gimehost.com
 - girlshare.ro
 - glbupload.com
@@ -332,7 +323,6 @@
 - icherryworkshop.com
 - ichigo-up.com (Japanese)
 - idrive.com
-- imzupload.com
 - inclouddrive.com
 - indishare.me
 - indoshares.com
@@ -347,24 +337,18 @@
 - jeodrive.com
 - jianguoyun.com (Chinese)
 - jolinfile.com
-- jumbload.com
 - jumbofilebox.com
 - jumbofiles.org
 - jumpshare.com
 - jumpx.ua (Russian)
 - justbeamit.com
-- jxpan.cc (Chinese, make sure to include "www.")
-- k2s.cc
 - katfile.com
-- katzfiles.com
 - kbagi.com (Indo)
 - keeload.com
-- keep2s.cc
-- keep2share.cc
+- keep2share.cc (mirrors : keep2s.cc, k2s.cc)
 - keepresource.com (Chinese)
 - keepshare.net
 - kenfiles.com
-- killerleaks.com
 - kingfile.pl (Polish)
 - kiwi6.com
 - kouploader.jp (Japanese)
@@ -391,12 +375,9 @@
 - manyuploading.com
 - maro.xyz
 - marto.does-love.men
-- media1fire.com (Arabian)
 - media4up.com
-- mediafile.co
 - mediafire.com
 - mega.co.nz
-- megacache.net
 - megadrive.co
 - megafile.pl (Polish)
 - megafiles.us
@@ -413,7 +394,6 @@
 - midiashared.com (Portoguese)
 - minhateca.com.br
 - minifiles.net
-- miupload.com
 - mixstep.co
 - mixtape.moe
 - monkifiles.com
@@ -444,11 +424,9 @@
 - nup.pw
 - oboom.com
 - ofile.com
-- ohayou.altervista.org
 - omerta.is
 - one2up.com (Thai)
 - onedrive.live.com
-- onionfiles.com
 - opendrive.com
 - openload.co
 - orangefiles.me
@@ -470,12 +448,11 @@
 - pomf.cat
 - pomf.co
 - pomf.lolisandstuff.moe
-- pomf.sinister.ly
 - pomf.space
 - portflares.com
 - poslisoubor.cz (Czech)
 - prefiles.net
-- psycho.space/#/upload
+- psycho.space
 - publish2.me
 - put.io
 - put.re
@@ -501,9 +478,8 @@
 - reich.io (German)
 - restfilee.com
 - revernet.com/fileserver/
-- rfl.pw
 - rgho.st
-- rockfile.eu
+- rockfile.co
 - rokket.space
 - rusfolder.com (Russian)
 - s.dclan.org/sharefiles
@@ -570,20 +546,18 @@
 - superbshare.com (Czech)
 - supershare.pl (Polish)
 - superupload.com
-- suprafiles.net
+- suprafiles.org
 - svfile.com
 - swoopshare.com
 - takeafile.com
 - takefile.link
 - temp-host.com
-- temp-share.com
 - tenlua.vn (Vietnamese)
 - terafilez.com
 - tezfiles.com
 - thaicyberupload.com
 - the7sky.info
 - tikfile.com
-- tinyfileshost.com
 - tinyupload.com
 - tohax.com
 - toofile.com
@@ -592,7 +566,6 @@
 - transfa.re
 - transfer.sh
 - transferbigfiles.com
-- transfile.ru
 - tropicshare.com
 - tunescoop.com
 - turbobit.net
@@ -606,8 +579,7 @@
 - uguu.se
 - uloz.to (Czech) (mirrors : ulozto.net, ulozto.cz, ulozto.sk)
 - ulozisko.sk (Slovak)
-- ultimatedown.com
-- ume-up.ddo.jp (Japanese)
+- ume-up.com (Japanese)
 - unibytes.com
 - up-4ever.com
 - up.3raq4all.com (Arabian)
@@ -631,13 +603,12 @@
 - upf.co.il (Hebrew)
 - upfile.mobi
 - upl.io
-- uplds.us
+- uplds.com
 - upload.bg
 - upload.blueberrypancak.es
 - upload.cd
 - upload.com.ua (Russian)
 - upload.ee
-- upload.lagit.in
 - upload.mn
 - upload.mobi
 - upload.r34.club
@@ -650,7 +621,6 @@
 - uploadboy.com
 - uploadcloud.pro
 - uploaded.net
-- uploadex.com
 - uploadfile.pl
 - uploadfiles.eu
 - uploadfiles.io
@@ -660,7 +630,6 @@
 - uploadkadeh.com
 - uploadman.com
 - uploadmb.com
-- uploadmor.com
 - uploadocean.com
 - uploadrocket.net
 - uploads.to
@@ -729,9 +698,8 @@
 - xup.in (German)
 - xuploads.com
 - xvidstage.com (German)
-- ydfile.com
+- ydfile.com (add "www." before the URL)
 - ydray.com/?i=en
-- yuiko.xyz
 - yourfilelink.com
 - yourfilestore.com
 - yourupload.com
@@ -751,5 +719,5 @@
 - zippyshare.com
 - zofile.com
 - zorofiles.com
-- zupload.pw
+- zupload.me
 - zxcfiles.com
