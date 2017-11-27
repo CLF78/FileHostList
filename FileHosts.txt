@@ -670,6 +670,7 @@
 - vds-host.com.ua (Russian)
 - veeosync.com
 - vidga.me
+- vidrock.co
 - vodlock.co
 - void.cat
 - volafile.org
