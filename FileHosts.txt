@@ -1,4 +1,5 @@
 - 0wx.org (mirrors .eu, .es, .cat)
+- 1cloud2.net
 - 1fichier.com
 - 202.226.240.163/uploader/ (Japanese)
 - 2big2send.com
@@ -20,6 +21,7 @@
 - abload.de (German)
 - abmatrix.com
 - acefile.co
+- addfile.org
 - adrive.com
 - alfafile.net
 - amaury.carrade.eu/upload (French)
@@ -230,6 +232,7 @@
 - filemass.net
 - filenext.com
 - filenurse.com
+- filepile.is
 - filepup.net
 - filer.net (German)
 - filerio.in
@@ -321,6 +324,7 @@
 - hugesharing.net
 - hulkload.com
 - hyperfileshare.com
+- iblazedrive.com
 - icerbox.com
 - icherryworkshop.com
 - ichigo-up.com (Japanese)
@@ -422,6 +426,7 @@
 - nodefiles.com
 - nofile.io
 - nomofile.com
+- nossocloud.com
 - novafile.com
 - nullpo.vip2ch.com (Japanese)
 - nup.pw
@@ -542,6 +547,7 @@
 - storefileway.com
 - strace.club
 - streamfile.com
+- streamyourfile.com
 - subyshare.com
 - sufile.com (Chinese)
 - suicide.moe
