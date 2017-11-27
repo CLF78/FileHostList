@@ -4,9 +4,11 @@
 - abysstream.com
 - akstream.video
 - akvideo.stream
+- allvids.co
 - ani-stream.com
 - anyfiles.pl (Polish)
 - auroravid.to
+- biter.tv
 - bitvid.sx
 - cda.pl (Polish)
 - clipwatching.com
@@ -30,6 +32,7 @@
 - hellspy.cz (Czech)
 - hdvid.tv
 - idowatch.net
+- liivideo.com
 - mixloads.com
 - moevideo.club (Russian)
 - moshahda.net (Arabian)
@@ -59,11 +62,14 @@
 - thevideo.me
 - thevideobee.to
 - uptostream.com
+- upvid.co
+- uqload.com
 - veehd.com
 - vid.me
 - videonest.net
 - videoz.bz
 - videowood.tv
+- vidfast.co
 - vidfile.net
 - vidgg.to
 - vidlii.com
