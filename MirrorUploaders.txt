@@ -20,4 +20,5 @@
 - updup.net
 - uploadmagnet.com
 - uploadmirrors.com
+- uploadonall.com
 - upmirror.info
