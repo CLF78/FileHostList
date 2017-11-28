@@ -32,11 +32,13 @@
 - anafile.com
 - aniteca.zlx.com.br (Brazilian)
 - anonfile.com
+- anonfiles.cc
 - apkfiles.store
 - arab.sh (Arabian)
 - arabloads.net
 - attachmore.com
 - ausfile.com
+- axfiles.net (Spanish)
 - ayy.lol
 - azurefiles.com
 - backin.net
@@ -294,6 +296,7 @@
 - geeku.be
 - germench.de/s/sharefiles
 - gigapeta.com
+- gigasize.com
 - gimehost.com
 - girlshare.ro
 - glbupload.com
@@ -487,6 +490,7 @@
 - reich.io (German)
 - restfilee.com
 - revernet.com/fileserver/
+- rfl.pw
 - rgho.st
 - rockfile.co
 - rokket.space
@@ -576,6 +580,7 @@
 - transfa.re
 - transfer.sh
 - transferbigfiles.com
+- transfiles.ru (Russian)
 - tropicshare.com
 - tunescoop.com
 - turbobit.net
