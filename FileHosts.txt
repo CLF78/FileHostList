@@ -162,6 +162,7 @@
 - easylinkshare.com
 - easypaste.org (Czech)
 - easysend.to
+- easysendme.com
 - edisk.cz (Czech)
 - edisk.eu
 - elephantafiles.com
@@ -338,6 +339,8 @@
 - indoshares.com
 - instadrop.com
 - invitationfile.com
+- iosdll.com
+- ioswar.com
 - ironfiles.net
 - is-a.cricket
 - ishare.iask.sina.com.cn (Chinese) (Documents Only)
@@ -356,6 +359,7 @@
 - kbagi.com (Indo)
 - keeload.com
 - keep2share.cc (mirrors : keep2s.cc, k2s.cc)
+- keepfiles.net
 - keepresource.com (Chinese)
 - keepshare.net
 - kenfiles.com
@@ -620,6 +624,7 @@
 - upfile.mobi
 - upl.io
 - uplds.com
+- upload-online.biz
 - upload.bg
 - upload.blueberrypancak.es
 - upload.cd
@@ -736,6 +741,7 @@
 - zipezap.com (Italian)
 - zippyloads.com
 - zippyshare.com
+- ziuuu.me
 - zofile.com
 - zorofiles.com
 - zupload.me
