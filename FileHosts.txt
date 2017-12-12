@@ -367,6 +367,7 @@
 - kingfile.pl (Polish)
 - kiwi6.com
 - kouploader.jp (Japanese)
+- lacoqui.net
 - lambda.sx
 - lambodata.com
 - lasana.rufian.eu
