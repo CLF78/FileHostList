@@ -69,7 +69,6 @@
 - catbox.moe
 - catgirl.pics
 - catshare.net (Polish)
-- catshare.org (Japanese)
 - chayfile.com
 - chen.2hu.moe
 - chomikuj.pl (Polish)
@@ -340,6 +339,7 @@
 - indoshares.com
 - instadrop.com
 - invitationfile.com
+- iosddl.net
 - iosdll.com
 - ioswar.com
 - ironfiles.net
