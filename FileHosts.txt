@@ -239,6 +239,7 @@
 - filepile.is
 - filepup.net
 - filer.net (German)
+- filerea.com
 - filerio.in
 - files.com
 - files.d-lan.dp.ua (Russian)
@@ -641,6 +642,7 @@
 - uploadbaz.net
 - uploadbits.net
 - uploadboy.com
+- uploadburst.com
 - uploadcloud.pro
 - uploaded.net
 - uploadfile.pl
