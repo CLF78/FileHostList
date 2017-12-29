@@ -2,6 +2,7 @@
 - 24video.net (Russian)
 - 9xplay.live
 - abysstream.com
+- aircloud.to
 - akstream.video
 - akvideo.stream
 - allvids.co
@@ -34,6 +35,7 @@
 - hdvid.tv
 - idowatch.net
 - idtbox.com
+- jawcloud.co
 - liivideo.com
 - mixloads.com
 - moevideo.club (Russian)
@@ -96,3 +98,4 @@
 - xvidstage.com
 - youtube.com
 - youwatch.org
+- zkouknito.cz (Czech)
