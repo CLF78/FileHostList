@@ -530,6 +530,7 @@
 - share-online.biz
 - share.az (Azeri)
 - share.riseup.net
+- share.time.mn (Russian)
 - share4web.com
 - sharebit-upload.com
 - sharecash.org
