@@ -673,6 +673,7 @@
 - uppit.com
 - upstore.net
 - uptobox.com
+- uptou.co
 - urupload.com
 - usaupload.net
 - usbupload.com
@@ -680,7 +681,6 @@
 - userscdn.com
 - userscloud.com
 - usersdrive.com
-- usersfiles.com
 - userupload.net
 - vds-host.com.ua (Russian)
 - veeosync.com
