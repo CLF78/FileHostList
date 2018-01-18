@@ -129,6 +129,7 @@
 - dopefile.pk
 - doxbin.com
 - doraupload.com (Japanese)
+- dosya.co (Turkish)
 - dosya.tc (Turkish)
 - dosya.tv (Turkish)
 - dosyaupload.com (Turkish)
@@ -158,6 +159,7 @@
 - dunshare.com
 - dwnup.com
 - dysk.onet.pl (Polish)
+- dz4up.com
 - easybytez.com
 - easylinkshare.com
 - easypaste.org (Czech)
@@ -273,6 +275,7 @@
 - fileupup.com
 - fileze.net
 - filezog.com
+- filhost.ru
 - firedrop.com
 - fireget.com
 - fistfast.net
@@ -441,6 +444,7 @@
 - nullpo.vip2ch.com (Japanese)
 - nup.pw
 - oboom.com
+- odrive.com
 - ofile.com
 - oleupload.com
 - omerta.is
@@ -481,6 +485,7 @@
 - qtyfiles.com
 - quictransfer.com
 - rabidfiles.com
+- racaty.com
 - rapidfileshare.net
 - rapidgator.net
 - rapidpaid.com
