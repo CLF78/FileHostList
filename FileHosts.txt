@@ -649,6 +649,7 @@
 - uploadbits.net
 - uploadboy.com
 - uploadburst.com
+- uploadbuzz.net
 - uploadcloud.pro
 - uploaded.net
 - uploadfile.pl
