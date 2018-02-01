@@ -101,7 +101,6 @@
 - data.hu (Hungarian)
 - datafile.com
 - datafilehost.com
-- datasbit.com
 - datator.cz (Czech)
 - datei.to (German)
 - datoid.cz (Czech)
@@ -278,7 +277,7 @@
 - filhost.ru
 - firedrop.com
 - fireget.com
-- fistfast.net
+- flashbit.cc
 - flexydrive.com
 - flii.by
 - florenfile.com
@@ -553,6 +552,7 @@
 - sonda.me (Spanish)
 - sonifiles.com
 - soundcloud.com
+- speed4up.com (Arabian)
 - speedfiles.net
 - speedshare.eu
 - speedvid.net
@@ -643,6 +643,7 @@
 - upload.r34.club
 - upload.re
 - upload.zone
+- upload4earn.com
 - uploadas.com
 - uploadbank.com
 - uploadbaz.net
