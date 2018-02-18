@@ -31,6 +31,7 @@
 - androidhost.org
 - androidhost.ru (Russian)
 - anafile.com
+- animefiles.online
 - aniteca.zlx.com.br (Brazilian)
 - anonfile.com
 - anonfiles.cc
@@ -170,7 +171,6 @@
 - elsfile.org
 - en.42.meup.org
 - europeup.com
-- euroshare.eu
 - ex-load.com
 - exoshare.com
 - expirebox.com
@@ -213,7 +213,6 @@
 - filecloud.io
 - fileconvoy.com
 - filecorn.com
-- filecyber.com
 - filedais.com
 - fileden.com
 - filedot.xyz
@@ -269,7 +268,6 @@
 - filetonet.com (Russian)
 - filetrip.net
 - filetut.com
-- fileud.com
 - fileupload.pw
 - fileupup.com
 - fileze.net
@@ -314,7 +312,6 @@
 - gzfile.com
 - hambox.fr/transfert/
 - harefile.com
-- hdupload.net
 - hellupload.com
 - hightail.com
 - hitfile.net
@@ -397,6 +394,7 @@
 - mediafire.com
 - mega.co.nz
 - megadrive.co
+- megaefile.com
 - megafile.pl (Polish)
 - megafiles.us
 - megafirez.com
@@ -480,14 +478,11 @@
 - put.re
 - putcker.com
 - putdocs.com
-- putfiles.in
 - qtyfiles.com
 - quictransfer.com
-- rabidfiles.com
 - racaty.com
 - rapidfileshare.net
 - rapidgator.net
-- rapidpaid.com
 - rapidrar.com
 - rapidstone.com
 - rapidturk.com
@@ -532,7 +527,6 @@
 - sexyfiles.biz
 - shanatan.moe (no .exe files)
 - share-online.biz
-- share.az (Azeri)
 - share.riseup.net
 - share.time.mn (Russian)
 - share4web.com
@@ -663,7 +657,6 @@
 - uploadman.com
 - uploadmb.com
 - uploadocean.com
-- uploadrocket.net
 - uploads.to
 - uploads.ws
 - uploadserv.com
@@ -671,7 +664,6 @@
 - uploadwinners.com
 - uploadx.com
 - uploadx.link
-- uploadz.org
 - uplod.cc
 - uplod.co
 - uplod.ir (Arabian)
@@ -742,10 +734,10 @@
 - yousuwp.com (Chinese)
 - yunfile.com
 - zabfile.com
-- zapfile.net
 - zbcupload.com
 - zbigz.com
 - zeenshare.com
+- zfile.in.ua (Russian)
 - ziddu.com
 - ziifile.com
 - zimbali.net
@@ -754,6 +746,5 @@
 - zippyshare.com
 - ziuuu.me
 - zofile.com
-- zorofiles.com
 - zupload.me
 - zxcfiles.com
