@@ -245,6 +245,7 @@
 - files.d-lan.dp.ua (Russian)
 - files.f-o-g.eu
 - files.fm
+- files.guru
 - filesabc.com (Japanese)
 - filesave.me
 - filesbomb.in
