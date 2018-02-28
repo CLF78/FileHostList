@@ -7,6 +7,7 @@
 - 2shared.com
 - 3adisk.com (Chinese)
 - 3rbup.com (Arabian)
+- 3zfile.net
 - 4bigbox.com
 - 4downfiles.org
 - 4lpha.one
@@ -162,6 +163,7 @@
 - dz4up.com
 - easybytez.com
 - easylinkshare.com
+- easylinkz.net
 - easypaste.org (Czech)
 - easysend.to
 - easysendme.com
@@ -177,6 +179,7 @@
 - extmatrix.com
 - eyesfile.ca
 - ezfiles.net
+- f2h.io (Hebrew)
 - f2h.nana10.co.il (Hebrew)
 - fast-files.com
 - fastload.co
@@ -644,6 +647,7 @@
 - uploadbaz.net
 - uploadbits.net
 - uploadboy.com
+- uploadbr.com (Brazillian)
 - uploadburst.com
 - uploadbuzz.net
 - uploadcloud.pro
