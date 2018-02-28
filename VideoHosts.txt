@@ -34,6 +34,7 @@
 - haxhits.com
 - hellspy.cz (Czech)
 - hdvid.tv
+- holavid.com
 - idowatch.net
 - idtbox.com
 - jawcloud.co
@@ -64,7 +65,7 @@
 - streamplay.to
 - streamratio.com
 - thevid.net
-- thevideo.me
+- thevideo.cc
 - thevideobee.to
 - uptostream.com
 - upvid.co
@@ -97,6 +98,5 @@
 - wholecloud.net
 - wstream.video
 - xvidstage.com
-- youtube.com
 - youwatch.org
 - zkouknito.cz (Czech)
