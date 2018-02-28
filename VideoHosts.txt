@@ -14,7 +14,7 @@
 - bitvid.sx
 - cda.pl (Polish)
 - clipwatching.com
-- clooud.tv
+- clooud.co
 - cloudtime.to
 - cloudup.com
 - cloudy.ec
@@ -35,7 +35,6 @@
 - hellspy.cz (Czech)
 - hdvid.tv
 - holavid.com
-- idowatch.net
 - idtbox.com
 - jawcloud.co
 - liivideo.com
@@ -60,8 +59,6 @@
 - streamango.com
 - streamcherry.com
 - streamcloud.eu
-- streame.net
-- streamin.to
 - streamplay.to
 - streamratio.com
 - thevid.net
@@ -73,7 +70,6 @@
 - veehd.com
 - vid.me
 - videonest.net
-- videoz.bz
 - videowood.tv
 - vidfast.co
 - vidfile.net
