@@ -39,6 +39,7 @@
 - apkfiles.store
 - arab.sh (Arabian)
 - arabloads.net
+- arivoweb.com
 - attachmore.com
 - ausfile.com
 - axfiles.net (Spanish)
